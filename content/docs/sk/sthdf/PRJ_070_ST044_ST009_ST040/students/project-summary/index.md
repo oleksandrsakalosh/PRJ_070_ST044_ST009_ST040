@@ -135,19 +135,23 @@ fm_reserved2: ""
 
 # 📝 Project Summary
 
+**TODO:** doplniť nasledujúce projektové údaje. Pokyny a checklisty sú šablóna;
+rozsah, termíny a výstupy zatiaľ nie sú potvrdené.
+
 ## 🔖 Identifikácia
 ## 1️⃣ Názov projektu
 *(Jasný, výstižný, inšpiratívny – ako by sa mal objaviť na plagáte.)*
-- **Názov projektu:** `PRJ_XXX_<Názov>_<ST_XXX>_<ST_XXX>`
-- **Stručný popis:** 2–3 vety
+- **Kód projektu:** `PRJ_070_ST044_ST009_ST040`
+- **Názov projektu:** TODO
+- **Stručný popis:** TODO (2–3 vety)
 
 ## 2️⃣ Členovia tímu
 
 | ST ID | Meno | Rola v tíme | Kompetencie |
 |-------|------|-------------|-------------|
-| ST001 |      | Project Lead | koordinácia |
-| ST002 |      | Developer | implementácia |
-| ST003 |      | Designer | UI/UX |
+| ST044 | Sakalosh Oleksandr, Bc. | TODO | TODO |
+| ST009 | Lykhachov Yehor, Bc. | TODO | TODO |
+| ST040 | Mareček Ján, Bc. | TODO | TODO |
 
 ## 3️⃣ Motivácia tímu
 - Prečo ste si vybrali tento projekt?
@@ -164,8 +168,8 @@ fm_reserved2: ""
 - Zamerajte sa na **"čo"** riešite, nie ešte "ako".
 
 ## 6️⃣ Projektový plán
-- Odhadovaný čas na prácu: _x hodín / týždeň_
-- Predpokladaný stav v čase prezentácie: _MVP / prototyp / dokumentácia / funkčný produkt_
+- Odhadovaný čas na prácu: TODO (hodín / týždeň)
+- Predpokladaný stav v čase prezentácie: TODO (MVP / prototyp / dokumentácia / funkčný produkt)
 - Hlavné míľniky:
   - [ ] Príprava
   - [ ] Implementácia
@@ -173,7 +177,7 @@ fm_reserved2: ""
   - [ ] Prezentácia
 
 ### 📅 Míľniky a výstupy
-- **Do januára dodáme:**
+- **TODO: potvrdiť termín a plánované výstupy:**
   - [ ] prototyp
   - [ ] prezentáciu
   - [ ] dokumentáciu

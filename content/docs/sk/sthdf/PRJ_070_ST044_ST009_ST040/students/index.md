@@ -135,7 +135,18 @@ fm_reserved2: ""
 
 # 👥 Moje deliverables
 
-Toto je rozcestník k tvojim povinným výstupom pre tento predmet.
+Toto je rozcestník k povinným výstupom tímu **PRJ_070_ST044_ST009_ST040**
+s týmito členmi:
+
+- **ST044:** Sakalosh Oleksandr, Bc.
+- **ST009:** Lykhachov Yehor, Bc.
+- **ST040:** Mareček Ján, Bc.
+
+**TODO:** doplniť obsah všetkých siedmich sekcií. Osobné profily, reflexie
+a individuálne príspevky označte samostatne pre ST044, ST009 a ST040.
+Príklady a pokyny šablóny nie sú dokladom dokončenia práce.
+
+- [Projektový dashboard](../projects/index.md)
 
 ## Navigácia
 - 🧑‍🎓 [About Me](./about-me/index.md)
@@ -170,4 +181,4 @@ Toto je rozcestník k tvojim povinným výstupom pre tento predmet.
    ```
 
 ## Navigácia
-- [↩️ Späť](../../index.md)
+- [↩️ Späť](../index.md)

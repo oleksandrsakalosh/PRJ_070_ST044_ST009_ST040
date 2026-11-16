@@ -1,3 +1,48 @@
+# PRJ_070_ST044_ST009_ST040
+
+Tímová dokumentácia predmetu **Systémové myslenie v IT a digitálna fabrikácia**.
+
+- **Kód projektu:** `PRJ_070_ST044_ST009_ST040`
+**Členovia tímu:**
+
+- **ST044:** Sakalosh Oleksandr, Bc.
+- **ST009:** Lykhachov Yehor, Bc.
+- **ST040:** Mareček Ján, Bc.
+
+- **Názov a stručný opis projektu:** TODO
+- **Roly a individuálne príspevky členov:** TODO
+
+## Projektová dokumentácia
+
+- [Projektový dashboard](content/docs/sk/sthdf/PRJ_070_ST044_ST009_ST040/projects/index.md)
+- [7Ds – Manažérsky cyklus](content/docs/sk/sthdf/PRJ_070_ST044_ST009_ST040/projects/7ds/index.md)
+- [Q12 – Hodnotová os](content/docs/sk/sthdf/PRJ_070_ST044_ST009_ST040/projects/q12/index.md)
+- [SDLC – Technická dokumentácia](content/docs/sk/sthdf/PRJ_070_ST044_ST009_ST040/projects/sdlc/index.md)
+
+## Odovzdávané výstupy
+
+[Rozcestník a checklist odovzdávania](content/docs/sk/sthdf/PRJ_070_ST044_ST009_ST040/students/index.md):
+
+- [About Me](content/docs/sk/sthdf/PRJ_070_ST044_ST009_ST040/students/about-me/index.md)
+- [Knowledge Contribution](content/docs/sk/sthdf/PRJ_070_ST044_ST009_ST040/students/knowledge-contribution/index.md)
+- [Project Summary](content/docs/sk/sthdf/PRJ_070_ST044_ST009_ST040/students/project-summary/index.md)
+- [Project Outcomes](content/docs/sk/sthdf/PRJ_070_ST044_ST009_ST040/students/project-outcomes/index.md)
+- [Pitch Presentation](content/docs/sk/sthdf/PRJ_070_ST044_ST009_ST040/students/pitch-presentation/index.md)
+- [Final Presentation](content/docs/sk/sthdf/PRJ_070_ST044_ST009_ST040/students/final-presentation/index.md)
+- [Reflexia](content/docs/sk/sthdf/PRJ_070_ST044_ST009_ST040/students/reflexia/index.md)
+
+Dokumentácia je vygenerovaná zo šablóny. **TODO:** doplniť ciele, požiadavky,
+plán, skutočný stav implementácie a dôkazy o výsledkoch a testovaní.
+Pokyny a príklady v šablóne nepredstavujú potvrdené projektové údaje.
+Osobné profily, reflexie a individuálne príspevky uvádzajte osobitne pre
+ST044, ST009 a ST040.
+
+Štruktúra už bola vygenerovaná; pokračujte úpravou existujúcich stránok.
+Príkazy na vytvorenie klonu a generovanie nižšie sú pôvodné pokyny šablóny
+pre prvotné nastavenie. Pre tento tím platí [AGENTS.md](AGENTS.md).
+
+---
+
 # STHDF class template 2026-2027
 
 Toto je šablóna repozitára pre predmet **Systémové myslenie v IT a digitálna

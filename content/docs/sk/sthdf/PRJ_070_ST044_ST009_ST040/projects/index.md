@@ -135,13 +135,25 @@ fm_reserved2: ""
 
 # 🎓 Projekty – Dashboard
 
-V tejto sekcii nájdeš všetky projektové výstupy pre STHDF.
+V tejto sekcii sa nachádza dokumentácia projektu **PRJ_070_ST044_ST009_ST040**.
+
+Členovia tímu:
+
+- **ST044:** Sakalosh Oleksandr, Bc.
+- **ST009:** Lykhachov Yehor, Bc.
+- **ST040:** Mareček Ján, Bc.
+
+**TODO:** doplniť názov, opis, ciele, požiadavky, plán a stav projektu.
+Stránky obsahujú šablónové pokyny; implementované funkcie a výsledky testov
+uveďte až s príslušnými dôkazmi.
 
 ## 🔗 Navigácia
 
 - [7Ds – Manažérsky cyklus](./7ds/index.md)
 - [Q12 – Hodnotová os](./q12/index.md)
 - [SDLC – Technická dokumentácia](./sdlc/index.md)
+- [Odovzdávané výstupy](../students/index.md)
+- [↩️ Späť](../index.md)
 
 ---
 

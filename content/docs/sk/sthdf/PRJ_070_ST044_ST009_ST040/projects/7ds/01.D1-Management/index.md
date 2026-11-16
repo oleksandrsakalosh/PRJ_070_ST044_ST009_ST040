@@ -133,9 +133,11 @@ fm_reserved2: ""
 
 <!-- SDLC_INSTANCE_ID: PRJ_070_ST044_ST009_ST040 -->
 
-# D2 – Motivation
+# D1 – Management
 
-Stakeholderi, dôvody a dopady.
+Ciele, plány, rozhodnutia a evidencia práce.
+
+**TODO:** doplniť riadenie projektu podľa jednotlivých podsekcií.
 
 ---
 **Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../index.md)
