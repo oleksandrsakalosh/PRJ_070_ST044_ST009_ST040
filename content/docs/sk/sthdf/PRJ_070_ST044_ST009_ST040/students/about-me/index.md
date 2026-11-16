@@ -135,6 +135,15 @@ fm_reserved2: ""
 
 # 🙋 About Me
 
+## Individuálne doplnenie
+
+- **ST044 – Sakalosh Oleksandr, Bc.:** TODO osobný obsah / vlastný príspevok.
+- **ST009 – Lykhachov Yehor, Bc.:** TODO osobný obsah / vlastný príspevok.
+- **ST040 – Mareček Ján, Bc.:** TODO osobný obsah / vlastný príspevok.
+
+Nasledujúce body sú pôvodné pokyny šablóny. Životopis, osobná reflexia ani publikovaný KNIFE sa z komunikácie nedopĺňajú automaticky.
+
+
 ## 🔖 Základné informácie
 - Meno a priezvisko
 - Študentský GitHub profil (link)

@@ -135,7 +135,18 @@ fm_reserved2: ""
 
 # Measures
 
-Sekcia **Measures** – vyplňte obsah podľa potreby.
+## Navrhnuté opatrenia
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../../../index.md)
+- R01: nadviazať na komunikáciu SmartLabu a potvrdiť kapacitu tlače.
+- R02/R03: fyzicky zmerať diely a konektory a zapísať revíziu modelu.
+- R04: vyžiadať zdrojové artefakty od kolegov, pridať verzie a licencie.
+- R05: zopakovať a zapísať scenáre na presnej konfigurácii.
+- R06: používať jasné označenie konceptu na posteri a stavové tabuľky v dokumentácii.
+
+TODO: priradiť zodpovednosti, dátumy a kritériá uzavretia.
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../05.WorkActivitiesEvidence/index.md).

@@ -135,7 +135,22 @@ fm_reserved2: ""
 
 # Plans & Milestones
 
-Sekcia **Plans & Milestones** – vyplňte obsah podľa potreby.
+## Míľniky
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../../index.md)
+| Míľnik | Stav | Dôkaz / ďalší krok |
+|---|---|---|
+| Koncept hier a zariadenia | Zachytený | S1, poster |
+| Objednanie a dodanie komponentov | Potvrdené používateľom | TODO kusovník a doklady |
+| Prvá verzia hry na Pi | Testovanie potvrdené používateľom | Kód dodaný; TODO protokol a verzia testovaná na Pi |
+| Model krytu | Snímka dostupná | TODO aktuálne CAD/STL a kontrola rozmerov |
+| Tlač krytu | Neuskutočnená | Dohodnúť SmartLab |
+| Montáž do krytu | Čaká na tlač | TODO postup a fotografie |
+| Kompletná validácia a odovzdanie | Plánované | TODO termín, scenáre, výsledky |
+
+Dátumy dokončenia uvedených míľnikov používateľ nedodal. Nevychádzajú sa z dátumov správ, ktoré iba hlásia stav.
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../05.WorkActivitiesEvidence/index.md).

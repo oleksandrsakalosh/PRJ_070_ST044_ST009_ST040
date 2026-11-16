@@ -135,7 +135,21 @@ fm_reserved2: ""
 
 # 🔧 Non-Functional Requirements (NFR)
 
-Výkonnosť, bezpečnosť, dostupnosť, škálovanie.
+## Návrh kvalitatívnych požiadaviek
 
----
-**Navigation:** [⬆️ Up](./index.md) · [🏠 Home](../index.md)
+| Oblasť | Návrh | Chýbajúci údaj |
+|---|---|---|
+| Použiteľnosť | Ovládanie a text čitateľné na 800 × 480 px | TODO overiť na skutočnom displeji |
+| Spoľahlivosť | Opakované hry a zapnutie bez ručného zásahu | TODO počet cyklov a kritérium úspechu |
+| Odozva | Dotyk nevynecháva a nereaguje dvakrát | TODO merateľný limit |
+| Mechanika | Stabilný kryt, prístup k portom, priestor na káble | TODO rozmery, tolerancie, materiál |
+| Prevádzka | Vetranie a napájanie pri dlhšom behu | TODO teplotné a záťažové merania |
+| Údaje | Pred ukladaním výsledkov určiť potrebné údaje | TODO či sa vôbec ukladajú |
+
+Posterom deklarovaná bezpečnosť/odolnosť ani CE/RoHS uvedené v chate pre displej nedokladajú vlastnosti celého výrobku.
+
+## Navigácia
+
+- [↩️ Späť](./index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

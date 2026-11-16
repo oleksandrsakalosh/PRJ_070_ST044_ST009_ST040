@@ -135,14 +135,22 @@ fm_reserved2: ""
 
 # 01. Product/Service Life Cycle
 
-Krátky opis účelu kapitoly (1–3 vety).
+## Životný cyklus produktu
 
+**Marketing:** poster a formulácia hodnoty; validácia potrieb TODO.
+**Vývoj a návrh:** prvá herná verzia testovaná na Pi, komponenty dodané a testované podľa používateľa; kryt pred tlačou.
+**Predaj:** obchodný model, cena a zákazník TODO; predaj nie je doložený.
+**Údržba:** budúci proces po dokončení prototypu, zatiaľ bez prevádzkových záznamov.
 
-## Vrstvy
-- [01. Marketing](./01.Marketing/index.md)
-- [02. Development & Design](./02.DevelopmentDesign/index.md)
-- [03. Sales](./03.Sales/index.md)
-- [04. Maintenance](./04.Maintenance/index.md)
+## Podrobné sekcie
+
+- [01.Marketing](./01.Marketing/index.md)
+- [02.DevelopmentDesign](./02.DevelopmentDesign/index.md)
+- [03.Sales](./03.Sales/index.md)
+- [04.Maintenance](./04.Maintenance/index.md)
 
 ## Navigácia
+
 - [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

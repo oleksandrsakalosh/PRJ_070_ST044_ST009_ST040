@@ -135,6 +135,10 @@ fm_reserved2: ""
 
 # Troubleshooting
 
+## Projektové doplnenie
+
+TODO: doplniť reprodukovateľné chyby a overené opravy. Potenciálna kolízia HDMI je riziko návrhu, nie potvrdená porucha vyrobeného zariadenia.
+
 Sekcia **Troubleshooting** – vyplňte obsah podľa potreby.
 
 ---

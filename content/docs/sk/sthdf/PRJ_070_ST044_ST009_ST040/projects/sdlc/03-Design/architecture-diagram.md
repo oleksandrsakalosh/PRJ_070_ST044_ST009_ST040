@@ -135,7 +135,27 @@ fm_reserved2: ""
 
 # 🏗️ Architecture Diagram
 
-Vlož odkaz/obrázok architektonického diagramu a krátky popis.
+## Navrhovaná architektúra
 
----
-**Navigation:** [⬆️ Up](./index.md) · [🏠 Home](../index.md)
+```text
+Hráč → dotykový displej → herná aplikácia na Raspberry Pi
+                              ├─ Memory test
+                              ├─ Chimp test
+                              ├─ Whack-a-Mole / Rock-Paper-Scissors
+                              ├─ Reaction Time
+                              └─ menu a výsledok
+Raspberry Pi ── obraz cez HDMI ──→ displej
+Dotykový displej ── vstup cez USB ──→ Raspberry Pi
+Napájanie → doska / displej (presné zapojenie TODO)
+3D kryt → mechanické uchytenie a priestor pre káble
+```
+
+Ide o rekonštrukciu zámeru z komunikácie, nie o export existujúceho EA modelu. MicroSD je plánované úložisko systému. Kiosk režim je plánovaný spôsob spustenia. Dodaný kód používa Pygame a drží skóre iba v RAM. OS verzia a automatický štart zostávajú TODO.
+
+TODO: EA zdroj, systémový kontext, rozhrania, väzby na FR/HW požiadavky a reálne zapojenie.
+
+## Navigácia
+
+- [↩️ Späť](./index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

@@ -133,9 +133,20 @@ fm_reserved2: ""
 
 <!-- SDLC_INSTANCE_ID: PRJ_070_ST044_ST009_ST040 -->
 
-# # 04 Implementation
+# 04 Implementation
 
-Realizácia návrhu – kód, konfigurácia, pipeline.
+## MemoBox Junior – stav etapy
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../index.md)
+Používateľ potvrdil objednanie, dodanie a testovanie komponentov aj prvú verziu hry na Raspberry Pi. Dodaný je memory.py a päť STL s handoffom; EA a parametrický CAD zdroj ešte chýbajú. Kryt nie je vytlačený.
+
+## Podrobné sekcie
+
+- [code structure](./code-structure.md)
+- [setup instructions](./setup-instructions.md)
+- [used technologies](./used-technologies.md)
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

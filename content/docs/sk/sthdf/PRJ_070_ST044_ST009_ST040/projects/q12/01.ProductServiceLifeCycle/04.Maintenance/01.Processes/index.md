@@ -135,9 +135,12 @@ fm_reserved2: ""
 
 # 01. Processes
 
-Zoznam procesov / postupov súvisiacich s touto oblasťou.
+## MemoBox Junior
 
-- Proces A
-- Proces B
+Návrh: záloha microSD, evidencia chýb, kontrola upevnenia a aktualizácia dokumentácie pri zmene. TODO zodpovednosť, intervaly a overený postup.
 
-[↩️ Späť](../index.md)
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

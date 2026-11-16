@@ -135,9 +135,12 @@ fm_reserved2: ""
 
 # 03. Technologies
 
-Použité technológie, platformy, nástroje a ich verzie.
+## MemoBox Junior
 
-- Tech 1
-- Tech 2
+HDMI obraz, USB dotyk, microSD, plánovaná 3D tlač. Dodaný memory.py používa Python a Pygame. Materiál, tlačiareň a nastavenia: TODO.
 
-[↩️ Späť](../index.md)
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

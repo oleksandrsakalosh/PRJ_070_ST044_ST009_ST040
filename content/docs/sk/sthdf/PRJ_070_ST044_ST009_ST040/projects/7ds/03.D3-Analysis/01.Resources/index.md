@@ -135,7 +135,21 @@ fm_reserved2: ""
 
 # Resources
 
-Ľudia, čas, financie a iné zdroje.
+## Zdroje
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../../index.md)
+| Typ | Dostupný údaj | TODO |
+|---|---|---|
+| Ľudia | Oleksandr, Yehor, Ján | Potvrdiť formálne roly a kapacity |
+| Hardvér | Komponenty dodané a testované podľa používateľa | Modely, kusovník, ceny, dátumy |
+| Softvér | Dodaný memory.py s piatimi hrami; prvá verzia testovaná na Pi podľa používateľa | Verzie závislostí, commit a zhoda s testovanou verziou |
+| Návrh | Snímka modelu, päť STL a montážny handoff dostupné | Parametrický CAD, aktuálna revízia |
+| Výroba | Plán SmartLab | Kontakt, termín, materiál a cena |
+| Model systému | EA práca hlásená v chate | EA súbor a exporty |
+
+Približne 100 EUR je historický AI odhad, nie súčet skutočných nákladov.
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../01.D1-Management/05.WorkActivitiesEvidence/index.md).

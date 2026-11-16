@@ -135,7 +135,16 @@ fm_reserved2: ""
 
 # 🔗 Demo Links
 
-URL na demo, živé prostredie alebo prezentáciu videa.
+## Dostupné odkazy
 
----
-**Navigation:** [⬆️ Up](./index.md) · [🏠 Home](../index.md)
+- [Projektová dokumentácia](../../index.md)
+- [Poster konceptu](../../../assets/poster.png)
+- [Snímka modelu](../../../assets/model.png)
+
+TODO: video reálneho behu, herný repozitár, verzia nasadenia a miesto ukážky. Poster nie je spustiteľné demo.
+
+## Navigácia
+
+- [↩️ Späť](./index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

@@ -135,7 +135,18 @@ fm_reserved2: ""
 
 # Next Steps
 
-Sekcia **Next Steps** – vyplňte obsah podľa potreby.
+## Ďalšie kroky
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../../index.md)
+- [ ] Dodať EA a parametrický CAD; potvrdiť revíziu dodaného kódu/STL.
+- [ ] Overiť revíziu krytu, rozmery a konektory.
+- [ ] Potvrdiť SmartLab a parametre tlače.
+- [ ] Vytlačiť, zmontovať a vykonať skúšky.
+- [ ] Doplniť demo, termín, náklady a osobné reflexie.
+
+TODO: vlastníci a dátumy. Tieto kroky nie sú potvrdeným harmonogramom.
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../01.D1-Management/05.WorkActivitiesEvidence/index.md).

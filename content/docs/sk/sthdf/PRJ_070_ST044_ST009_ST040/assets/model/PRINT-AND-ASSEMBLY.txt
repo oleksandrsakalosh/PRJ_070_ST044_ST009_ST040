@@ -1,0 +1,52 @@
+MEMORY TEST ENCLOSURE
+Elecrow 5-inch LCD Display-B Rev 1.1 and Raspberry Pi 3 Model A+
+
+SCHOOL PRINT HANDOFF
+
+Import the STL files at 100% scale in millimeters. Use the school printer's
+profile to generate its print file. The models are on the build plane.
+
+01-body.stl                       Main shell, roof down on the bed
+02-bezel.stl                      Front face, flat
+03-lid-with-pi-mount.stl          Bottom lid, standoffs up
+04-diffuser.stl                   Light diffuser, flat
+05-display-connector-fit-test.stl Optional partial body for a quick fit check
+
+The body needs about 169 x 111 x 101 mm of build space before adding a brim.
+Use the school's filament profile. PLA and 0.20 mm layers are a reasonable
+starting point for a filament printer. Use translucent filament for the
+diffuser if it will cover a light. Preview supports at the body openings,
+screen mounting pads and roof details. Choose supports you can remove
+through the screen opening or open base.
+
+BEFORE PRINTING THE FULL BODY
+
+Print the optional fit section. It reproduces the HDMI-side upper mount
+and cable relief. Test it with the real screen, the low-profile Type-A
+HDMI plug and the micro-USB data plug. Turn the screen on and check the
+bezel against the visible pixels. Connector bodies vary, so a successful
+geometry check does not establish that a particular cable fits.
+
+ASSEMBLY
+
+1. Fit the screen from the front with HDMI and USB on the right when
+   viewed from the front. The four ear pads are 8.7 mm behind the
+   front face. Use thin nylon washers under the ears as needed to
+   bring the glass level with the front face, without clamping it.
+   Use M2.5 thread-forming screws for plastic, sized to the actual
+   washer stack and ear thickness. The pilot holes are about 5 mm deep.
+2. Fit the Pi on the four lid standoffs with its power and HDMI sockets
+   facing the right wall. Use M2.5 thread-forming screws for plastic.
+   The blind pilot holes are about 6 mm deep. Insert the microSD card
+   while the lid is off.
+3. Use full-size HDMI Type-A at both ends. A slim right-angle plug at
+   the screen should turn away from the glass into the box. Connect
+   either screen Touch port to the Pi with a USB-A to micro-USB data
+   cable. Bring the Pi's power cable through the side opening.
+4. The bezel and lid use M3-size fasteners. Choose screws suitable for
+   printed plastic and check their length against the blind pilots
+   before tightening. Fit the diffuser into the top recess if used.
+
+The exported STLs were checked as closed meshes. The case parts and
+nominal electronics envelopes were checked digitally. The real screen
+stack height, image alignment and molded plug fit need a physical check.

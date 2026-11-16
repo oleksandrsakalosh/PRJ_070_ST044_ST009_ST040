@@ -135,7 +135,18 @@ fm_reserved2: ""
 
 # 🚀 Release Procedure
 
-Versioning, tagovanie, CI kroky, rollback plán.
+## Navrhnutý postup vydania prototypu
 
----
-**Navigation:** [⬆️ Up](./index.md) · [🏠 Home](../index.md)
+1. Označiť verziu kódu a CAD/STL.
+2. Zaznamenať konfiguráciu Pi, displeja, OS a spustenia.
+3. Vykonať T01–T08 a zdokumentovať odchýlky.
+4. Pripraviť zálohu microSD a postup obnovy.
+5. Uložiť montážne fotografie, video a známe obmedzenia.
+
+TODO: prvá overená verzia, zodpovedná osoba a dátum. Nasadenie ani vydanie zatiaľ nie je doložené.
+
+## Navigácia
+
+- [↩️ Späť](./index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

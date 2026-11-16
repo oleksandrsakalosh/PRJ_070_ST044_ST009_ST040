@@ -135,6 +135,10 @@ fm_reserved2: ""
 
 # Best Practice
 
+## Projektové doplnenie
+
+Návrh praxe: ukladať zdroje a výsledky priebežne, pred tlačou kontrolovať rozmery aj konektory. TODO: členovia doplnia skutočne overené postupy.
+
 Sekcia **Best Practice** – vyplňte obsah podľa potreby.
 
 ---

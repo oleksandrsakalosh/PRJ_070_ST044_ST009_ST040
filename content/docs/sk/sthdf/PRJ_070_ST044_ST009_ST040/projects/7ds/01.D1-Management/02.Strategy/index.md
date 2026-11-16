@@ -135,7 +135,19 @@ fm_reserved2: ""
 
 # Strategy
 
-Sekcia **Strategy** – vyplňte obsah podľa potreby.
+## Stratégia realizácie
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../../index.md)
+Najskôr overiť elektroniku a hru mimo krytu, potom rozmery a výrobu. Používateľ už potvrdil testovanie komponentov a prvej hernej verzie na Pi; ďalší krok je doplniť EA, parametrický CAD a podrobné protokoly do dokumentácie.
+
+Pred tlačou vybrať jednu verziu CAD, preveriť káble a rozhodnúť materiál/parametre so SmartLabom. Poster používať na vysvetlenie zámeru; technické rozhodnutia opierať o rozmery, zdroje a skúšky.
+
+## Podrobné sekcie
+
+- [Docusaurus Guide](./Docusaurus-Guide/index.md)
+- [Knife Management](./Knife_Management/index.md)
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../05.WorkActivitiesEvidence/index.md).

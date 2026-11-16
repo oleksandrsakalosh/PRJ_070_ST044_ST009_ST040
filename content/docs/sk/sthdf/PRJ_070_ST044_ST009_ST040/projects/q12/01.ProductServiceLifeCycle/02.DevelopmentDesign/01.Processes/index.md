@@ -135,9 +135,12 @@ fm_reserved2: ""
 
 # 01. Processes
 
-Zoznam procesov / postupov súvisiacich s touto oblasťou.
+## MemoBox Junior
 
-- Proces A
-- Proces B
+Návrh hier → overenie elektroniky → CAD a meranie → tlač → montáž → testy. Dodané komponenty a prvá verzia boli testované podľa používateľa; výroba a montáž čakajú.
 
-[↩️ Späť](../index.md)
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

@@ -135,6 +135,10 @@ fm_reserved2: ""
 
 # D1 – Management
 
+## Projektové doplnenie
+
+Riadenie aktuálne smeruje k získaniu EA a parametrického CAD od kolegov, overeniu krytu a dohodnutiu výroby. Príspevky členov sú zachytené v Project Summary; formálne roly, kapacity a termíny sú TODO.
+
 Ciele, plány, rozhodnutia a evidencia práce.
 
 **TODO:** doplniť riadenie projektu podľa jednotlivých podsekcií.

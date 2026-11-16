@@ -133,9 +133,20 @@ fm_reserved2: ""
 
 <!-- SDLC_INSTANCE_ID: PRJ_070_ST044_ST009_ST040 -->
 
-# # 05 Testing
+# 05 Testing
 
-Overenie kvality – test cases, QA, výsledky.
+## MemoBox Junior – stav etapy
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../index.md)
+Testovanie komponentov a prvej hernej verzie je potvrdené používateľom. Podrobné scenáre, konfigurácia a protokoly ešte chýbajú. Navrhnuté T01–T08 nie sú označené ako vykonané.
+
+## Podrobné sekcie
+
+- [qa checklist](./qa-checklist.md)
+- [test cases](./test-cases.md)
+- [test results](./test-results.md)
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

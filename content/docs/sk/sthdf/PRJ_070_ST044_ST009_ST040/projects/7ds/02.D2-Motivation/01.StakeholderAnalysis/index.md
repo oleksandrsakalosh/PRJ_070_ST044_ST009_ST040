@@ -135,7 +135,19 @@ fm_reserved2: ""
 
 # Stakeholder Analysis
 
-Sekcia **Stakeholder Analysis** – vyplňte obsah podľa potreby.
+## Zainteresované strany
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../../index.md)
+| Strana | Vzťah k projektu | Stav |
+|---|---|---|
+| Tím ST044/ST009/ST040 | Návrh, softvér, hardvér, dokumentácia | Potvrdené zloženie |
+| Vyučujúci | Konzultácia a hodnotenie | TODO aktuálne kritériá a spätná väzba |
+| SmartLab | Plánovaná výroba krytu | Kontaktovanie hlásené, tlač nedohodnutá v podkladoch |
+| Deti a pedagógovia | Navrhnutí používatelia podľa posteru | TODO overiť potreby, vek a spôsob dohľadu |
+
+Nie je doložený konkrétny zákazník, škôlka ani pilotné používanie.
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../01.D1-Management/05.WorkActivitiesEvidence/index.md).

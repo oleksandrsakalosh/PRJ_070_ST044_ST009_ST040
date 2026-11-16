@@ -135,7 +135,20 @@ fm_reserved2: ""
 
 # 📒 Improvement Log
 
-Zoznam drobných vylepšení a opráv vykonaných po nasadení.
+## Zlepšenia – návrhy pred prevádzkou
 
----
-**Navigation:** [⬆️ Up](./index.md) · [🏠 Home](../index.md)
+Prevádzkové zásahy po nasadení zatiaľ nie sú doložené.
+
+| Návrh | Dôvod | Stav |
+|---|---|---|
+| Overiť kratší HDMI kábel | Možná kolízia v kryte podľa diskusie | TODO |
+| Označiť revíziu dodanej STL sady a doplniť CAD | STL už uložené, viac historických verzií v chate | TODO revízia a zdroj CAD |
+| Doplniť postup obnovy SD karty | Reprodukovateľné nasadenie | Návrh |
+
+TODO: po skutočných zmenách doplniť dátum, autora, verziu a overenie.
+
+## Navigácia
+
+- [↩️ Späť](./index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

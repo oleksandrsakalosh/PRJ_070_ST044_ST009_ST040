@@ -135,7 +135,34 @@ fm_reserved2: ""
 
 # 🧩 Code Structure
 
-Katalóg modulov/komponentov, adresárová štruktúra a konvencie.
+## Dodaný zdrojový kód
 
----
-**Navigation:** [⬆️ Up](./index.md) · [🏠 Home](../index.md)
+[Originálny memory.py](../../../assets/software/memory.py) je uložený bez úprav. Obsahuje Python aplikáciu s Pygame; ďalšie importy random a sys patria do štandardnej knižnice.
+
+| Trieda / funkcia | Zodpovednosť |
+|---|---|
+| App | Inicializácia, hlavná slučka, menu, výber hry, výsledok a návrat |
+| Button, draw_text, header | Kreslenie a interakcia |
+| TileGame, decay | Mriežka polí a časované zvýraznenia |
+| MemoryGame | Opakovanie sekvencie na mriežke 4 × 4 |
+| ChimpGame | Poradie čísel na mriežke 5 × 4 po skrytí |
+| WhackGame | Zásahy cieľa na mriežke 3 × 3 |
+| RPSGame | Kameň–papier–nožnice s náhodnou voľbou počítača |
+| ReactionGame | Päť kôl merania reakcie a priemer v ms |
+| GAME_CLASSES | Mapovanie piatich volieb menu na triedy |
+
+### Implementované správanie podľa kódu
+
+Logické rozlíšenie 800 × 480; plná obrazovka so škálovaním; slučka cieli na 30 FPS. Kliknutia sa prijímajú cez MOUSEBUTTONDOWN. Nie je tu samostatná obsluha FINGERDOWN; dotyk musí byť na cieľovom systéme mapovaný na kliknutia.
+
+App drží stav menu/hra/result a posledné skóre. Výsledok sa neukladá do súboru, databázy ani na server. Play Again vytvorí novú inštanciu hry; Esc alebo zatvorenie okna ukončí aplikáciu.
+
+Názov v menu/okne je ešte Memory Testing Device, nie MemoBox Junior. Nie je dodaná konfigurácia automatického spustenia po boote. Plná obrazovka aplikácie sama osebe nie je nastavenie kiosk režimu OS.
+
+TODO: verzia Python/Pygame použitá na Pi, pôvodný commit, autorstvo a licencia zdroja; potvrdiť, či ide presne o verziu predtým testovanú na Pi.
+
+## Navigácia
+
+- [↩️ Späť](./index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

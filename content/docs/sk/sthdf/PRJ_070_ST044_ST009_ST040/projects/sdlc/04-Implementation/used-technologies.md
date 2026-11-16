@@ -135,7 +135,25 @@ fm_reserved2: ""
 
 # 🧰 Used Technologies
 
-Jazyky, frameworky, knižnice a dôvody ich výberu.
+## Doložené technológie
 
----
-**Navigation:** [⬆️ Up](./index.md) · [🏠 Home](../index.md)
+| Prvok | Zdroj / stav |
+|---|---|
+| Python + Pygame | Importy a implementácia v memory.py; verzie TODO |
+| 800 × 480, fullscreen/scaled, 30 FPS cieľ | Konštanty a inicializácia aplikácie; nejde o nameraný výkon |
+| Päť hier | Triedy a GAME_CLASSES v dodanom zdroji |
+| Raspberry Pi 3 Model A+ | Cieľová doska uvedená v print/assembly handoffe |
+| Elecrow 5-inch LCD Display-B Rev 1.1 | Cieľový displej uvedený v handoffe |
+| HDMI Type-A / USB-A → microUSB data | Navrhnuté zapojenie v handoffe |
+| 5 STL súborov | Teleso, rám, spodný kryt s Pi držiakom, difúzor, test konektorov |
+| PLA, 0,20 mm vrstva | Odporúčané východisko v handoffe; neodskúšané |
+| EA | Práca hlásená v chate; zdroj a exporty TODO |
+| Raspberry Pi OS, kiosk | Pôvodný návrh; verzia OS a boot konfigurácia TODO |
+
+Používateľ potvrdil dodanie a testovanie komponentov. Parametre displeja 121,11 × 95,24 mm a 5-bodový kapacitný dotyk pochádzajú z chatu; fyzické rozmery a aktuálny datasheet ešte nie sú doložené. Objednávky, zdroj napájania, microSD a skutočné náklady: TODO.
+
+## Navigácia
+
+- [↩️ Späť](./index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

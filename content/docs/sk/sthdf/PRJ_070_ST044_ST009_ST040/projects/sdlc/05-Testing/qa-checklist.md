@@ -135,7 +135,21 @@ fm_reserved2: ""
 
 # 🧪 QA Checklist
 
-Kontrolný zoznam kvality (lint, bezpečnosť, accessibility, performance).
+## Kontrolný zoznam pred odovzdaním
 
----
-**Navigation:** [⬆️ Up](./index.md) · [🏠 Home](../index.md)
+- [ ] K dodanému kódu/STL je potvrdená revízia; EA a parametrický CAD sú doplnené.
+- [ ] Parametre displeja a dosky overené meraním.
+- [ ] Všetkých päť hier a dotyk overené na Pi so zaznamenanými výsledkami.
+- [ ] Kiosk a opakované zapnutie odskúšané.
+- [ ] Kryt, HDMI a montážne body bez kolízií.
+- [ ] Tlač a montáž zdokumentované.
+- [ ] Výsledky testov obsahujú dátum, konfiguráciu a dôkaz.
+- [ ] Marketingové tvrdenia oddelené od overených vlastností.
+
+TODO: označovať až po doložení príslušného overenia.
+
+## Navigácia
+
+- [↩️ Späť](./index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

@@ -135,7 +135,24 @@ fm_reserved2: ""
 
 # 📝 Change Log
 
-Chronologický zoznam zmien (dátum, verzia, popis, autor).
+## Vývoj zámeru podľa komunikácie
 
----
-**Navigation:** [⬆️ Up](./index.md) · [🏠 Home](../index.md)
+| Dátum | Zmena / udalosť | Stav |
+|---|---|---|
+| 29. 9. 2026 | Návrh dvoch hier na Pi a dotykovom displeji | Zámer |
+| 19. 10. 2026 | Zdieľanie body, bezel a lid STL | Prílohy v chate |
+| 2. 11. 2026 | Novšie STL vrátane diffuser; požiadavka kontroly rozmerov | Zdieľané, výroba nepotvrdená |
+| 2. 11. 2026 | Poster MemoBox Junior a diskusia názvu | Koncept |
+| 16. 11. 2026 | Hlásená nedostupná odpoveď SmartLabu | Otvorená závislosť |
+
+Nejde o release históriu softvéru. TODO doplniť commity, verzie CAD a schválené zmeny.
+
+## Navigácia
+
+- [↩️ Späť](./index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).
+
+## Doplnenie podkladov pri dokumentovaní
+
+Používateľ následne dodal memory.py (päť hier oproti pôvodnému dvojhernému konceptu) a päť STL s montážnym handoffom. Sú uložené ako zdroje S6/S7. Nejde o dátum vydania ani vytlačenia prototypu. TODO potvrdiť revíziu a dátum vzniku súborov.

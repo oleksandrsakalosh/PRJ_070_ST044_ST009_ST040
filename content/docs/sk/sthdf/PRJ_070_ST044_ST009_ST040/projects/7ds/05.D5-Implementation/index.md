@@ -135,7 +135,16 @@ fm_reserved2: ""
 
 # D5 – Implementation
 
-Realizácia a implementačné detaily.
+## Realizácia
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../index.md)
+Používateľ potvrdil dodanie a testovanie komponentov a prvú verziu hry testovanú na Pi. To potvrdzuje priebežný prototypový stav; nepreukazuje test každého požiadavkového scenára.
+
+Kryt nie je vytlačený. Výroba, montáž a spoločné skúšky v kryte zostávajú ďalšími krokmi.
+
+[Implementácia a podklady](../../sdlc/04-Implementation/index.md)
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../01.D1-Management/05.WorkActivitiesEvidence/index.md).

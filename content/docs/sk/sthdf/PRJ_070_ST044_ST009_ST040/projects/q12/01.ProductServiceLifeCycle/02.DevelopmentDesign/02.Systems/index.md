@@ -135,9 +135,12 @@ fm_reserved2: ""
 
 # 02. Systems
 
-Prehľad systémov / nástrojov podporujúcich túto oblasť.
+## MemoBox Junior
 
-- Systém X
-- Systém Y
+Raspberry Pi a displej tvoria cieľový systém. EA je hlásený pre systémový model. CAD nástroj a revízie: TODO. Dodaný je Python/Pygame kód a STL sada s handoffom; parametrický CAD a EA zostávajú TODO.
 
-[↩️ Späť](../index.md)
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

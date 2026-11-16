@@ -135,7 +135,17 @@ fm_reserved2: ""
 
 # 🔄 Change Request
 
-Popíš navrhovanú zmenu, dôvod, priority a schvaľovanie.
+## Otvorené rozhodnutia
 
----
-**Navigation:** [⬆️ Up](./index.md) · [🏠 Home](../index.md)
+- **Názov:** potvrdiť MemoBox Junior oproti pracovným PyMemTest/MemTest.
+- **Rozsah:** potvrdiť pravidlá hier, kiosk a požadovanú druhú výrobnú technológiu.
+- **Kryt:** vybrať záväznú verziu CAD a overiť rozmery pred výrobou.
+- **Výroba:** potvrdiť termín, materiál, cenu a kontakt SmartLabu.
+
+TODO: ku každému rozhodnutiu uviesť vlastníka, dátum, schválenie a dotknuté artefakty.
+
+## Navigácia
+
+- [↩️ Späť](./index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

@@ -135,7 +135,14 @@ fm_reserved2: ""
 
 # D6 – Verification & Testing
 
-Overenie kvality a testovanie.
+## Verifikácia
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../index.md)
+Prvá herná verzia na Pi a komponenty boli podľa používateľa testované. Dátumy, konfigurácia, presný rozsah a výsledky jednotlivých scenárov zatiaľ nie sú dodané.
+
+[Scenáre T01–T08](../../sdlc/05-Testing/test-cases.md) tvoria návrh ďalšej overiteľnej kontroly. [Výsledky](../../sdlc/05-Testing/test-results.md) rozlišujú potvrdené hlásenia od chýbajúcich protokolov.
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../01.D1-Management/05.WorkActivitiesEvidence/index.md).

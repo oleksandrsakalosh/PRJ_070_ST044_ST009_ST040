@@ -135,7 +135,18 @@ fm_reserved2: ""
 
 # D2 – Motivation
 
-Stakeholderi, dôvody a dopady.
+## Motivácia
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../index.md)
+Projekt spája softvér, elektroniku a fyzický návrh do samostatného zariadenia. Zámer umožňuje pracovať so systémovým modelom aj digitálnou fabrikáciou.
+
+Poster formuluje využitie pri pamäťových hrách detí v materských školách. Táto hodnota je hypotéza; rozhovory s pedagógmi a overenie vhodnosti ešte nie sú doložené. Osobnú motiváciu každého člena treba doplniť samostatne.
+
+## Podrobné sekcie
+
+- [01.StakeholderAnalysis](./01.StakeholderAnalysis/index.md)
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../01.D1-Management/05.WorkActivitiesEvidence/index.md).

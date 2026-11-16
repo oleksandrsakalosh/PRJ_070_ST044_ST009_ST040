@@ -135,7 +135,19 @@ fm_reserved2: ""
 
 # 🔌 API Reference
 
-Endpointy, payloady, príklady požiadaviek a odpovedí.
+## Interné a hardvérové rozhrania
 
----
-**Navigation:** [⬆️ Up](./index.md) · [🏠 Home](../index.md)
+- App.start_game(which) vytvorí inštanciu z GAME_CLASSES.
+- App.finish_game(score) nastaví last_score a prejde do result.
+- App.go_to_menu() prepne do menu.
+- Hry poskytujú update(dt), draw(surface), handle_click(pos).
+- Vstup používa Pygame MOUSEBUTTONDOWN; Esc/QUIT ukončia proces.
+- HDMI prenáša obraz, USB podľa handoffu dotyk; napájanie treba potvrdiť podľa reálnej zostavy.
+
+V dodanom zdroji nie je sieťové API, databáza ani trvalé ukladanie výsledkov. Ide o dokumentáciu skutočných rozhraní jedného súboru, nie o návrh HTTP endpointov.
+
+## Navigácia
+
+- [↩️ Späť](./index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

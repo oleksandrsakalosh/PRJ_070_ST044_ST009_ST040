@@ -135,9 +135,12 @@ fm_reserved2: ""
 
 # 02. Systems
 
-Prehľad systémov / nástrojov podporujúcich túto oblasť.
+## MemoBox Junior
 
-- Systém X
-- Systém Y
+E-shop, fakturácia ani evidencia zákazníkov nie sú doložené. TODO rozhodnúť, či komercializácia vôbec patrí do projektu.
 
-[↩️ Späť](../index.md)
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

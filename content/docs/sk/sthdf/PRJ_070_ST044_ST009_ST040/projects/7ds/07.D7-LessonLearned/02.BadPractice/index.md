@@ -135,6 +135,10 @@ fm_reserved2: ""
 
 # Bad Practice
 
+## Projektové doplnenie
+
+TODO: tím doplní konkrétne neúspešné postupy, ich následky a nápravu. Zo súkromnej neformálnej komunikácie sa osobné hodnotenie členov neodvodzuje.
+
 Sekcia **Bad Practice** – vyplňte obsah podľa potreby.
 
 ---

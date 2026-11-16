@@ -135,27 +135,55 @@ fm_reserved2: ""
 
 # 🎓 Projekty – Dashboard
 
-V tejto sekcii sa nachádza dokumentácia projektu **PRJ_070_ST044_ST009_ST040**.
+## MemoBox Junior – prehľad projektu
 
-Členovia tímu:
+**Kód:** PRJ_070_ST044_ST009_ST040. **Názov:** MemoBox Junior, potvrdený používateľom.
 
-- **ST044:** Sakalosh Oleksandr, Bc.
-- **ST009:** Lykhachov Yehor, Bc.
-- **ST040:** Mareček Ján, Bc.
+Cieľom je stolové zariadenie na hry s krátkodobou pamäťou. Raspberry Pi má zobrazovať pamäťové a reakčné hry; dodaný kód obsahuje Memory, Chimp, Whack-a-Mole, Rock-Paper-Scissors a Reaction Time na dotykovom displeji. Vlastný 3D tlačený kryt má spojiť elektroniku do jedného zariadenia. Poster navrhuje využitie v materských školách; tento segment zatiaľ nie je potvrdený používateľským overením.
 
-**TODO:** doplniť názov, opis, ciele, požiadavky, plán a stav projektu.
-Stránky obsahujú šablónové pokyny; implementované funkcie a výsledky testov
-uveďte až s príslušnými dôkazmi.
+| ST ID | Člen tímu |
+|---|---|
+| ST044 | Sakalosh Oleksandr, Bc. |
+| ST009 | Lykhachov Yehor, Bc. |
+| ST040 | Mareček Ján, Bc. |
 
-## 🔗 Navigácia
+### Aktuálny stav podľa dostupných podkladov
 
-- [7Ds – Manažérsky cyklus](./7ds/index.md)
-- [Q12 – Hodnotová os](./q12/index.md)
-- [SDLC – Technická dokumentácia](./sdlc/index.md)
-- [Odovzdávané výstupy](../students/index.md)
+| Oblasť | Doložený stav | Čo chýba |
+|---|---|---|
+| Koncept a poster | Dostupný poster a opis hier | Potvrdenie názvu a cieľovej skupiny |
+| Softvér | Prvá verzia vyvinutá a testovaná na Pi podľa používateľa | Kód dostupný; TODO verzie, presný rozsah skúšok a screenshoty |
+| Hardvér | Komponenty objednané, dodané a testované podľa používateľa | Presné modely, konfigurácia a protokoly |
+| Kryt | Snímka modelu; STL zdieľané v chate | STL a handoff dostupné; TODO CAD, fyzický fit a tlač |
+| Systémový model | Hlásená práca v EA | EA súbor a exporty diagramov |
+| Výroba a montáž | Kryt podľa používateľa nie je vytlačený | Termín tlače, hotový kryt, fotografie montáže |
+| Overenie | Test prvej verzie na Pi potvrdený; protokol chýba | Výsledky podľa navrhnutých scenárov |
+
+![Návrh krytu MemoBox Junior](../assets/model.png)
+
+### Čítanie dokumentácie
+
+- [7Ds – riadenie projektu](./7ds/index.md)
+- [Q12 – hodnota a životný cyklus](./q12/index.md)
+- [SDLC – technické riešenie](./sdlc/index.md)
+- [Project Summary](../students/project-summary/index.md)
+- [Výstupy a ich obmedzenia](../students/project-outcomes/index.md)
+- [Odovzdávané sekcie](../students/index.md)
+
+**Najbližšie kroky:** potvrdiť chýbajúce údaje, doplniť EA a parametrický CAD, overiť rozmery a káble, dohodnúť výrobu, zmontovať a zaznamenať testy. Termín a rozpočet: **TODO**.
+
+## Podrobné sekcie
+
+- [7ds](./7ds/index.md)
+- [q12](./q12/index.md)
+- [sdlc](./sdlc/index.md)
+
 - [↩️ Späť](../index.md)
 
----
+Podklady a rozlíšenie stavov: [evidencia zdrojov](7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).
 
-## ℹ️ Poznámka
-Tento súbor je súčasťou *defaultného template* a slúži ako vstupná brána pre projektovú dokumentáciu.
+## Dodané technické zdroje
+
+- [memory.py – päť hier](../assets/software/memory.py)
+- [STL a rozmery](./7ds/04.D4-Design/index.md)
+- [Výrobný handoff](../assets/model/PRINT-AND-ASSEMBLY.txt)

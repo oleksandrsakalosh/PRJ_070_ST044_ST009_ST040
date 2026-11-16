@@ -142,7 +142,7 @@ s týmito členmi:
 - **ST009:** Lykhachov Yehor, Bc.
 - **ST040:** Mareček Ján, Bc.
 
-**TODO:** doplniť obsah všetkých siedmich sekcií. Osobné profily, reflexie
+**MemoBox Junior:** tímové sekcie opisujú aktuálny stav. **TODO:** doplniť chýbajúce zdroje a individuálny obsah. Osobné profily, reflexie
 a individuálne príspevky označte samostatne pre ST044, ST009 a ST040.
 Príklady a pokyny šablóny nie sú dokladom dokončenia práce.
 

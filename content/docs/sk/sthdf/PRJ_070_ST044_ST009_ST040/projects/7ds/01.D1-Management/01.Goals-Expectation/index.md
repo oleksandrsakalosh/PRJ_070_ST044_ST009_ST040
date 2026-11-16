@@ -135,7 +135,16 @@ fm_reserved2: ""
 
 # Goals & Expectations
 
-Sekcia **Goals & Expectations** – vyplňte obsah podľa potreby.
+## Ciele MemoBox Junior
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../../index.md)
+- Spojiť dve hry s krátkodobou pamäťou, dotykový displej a Raspberry Pi do stolového prototypu.
+- Navrhnúť a vyrobiť vlastný 3D kryt s overenými rozmermi.
+- Zachytiť systémový model a postup výroby tak, aby bolo možné riešenie zopakovať.
+
+Používateľ potvrdil prvú verziu hry otestovanú na Pi a dodané/otestované komponenty. Kryt nie je vytlačený. TODO: schváliť merateľné kritériá dokončenia, termín a rozsah oboch hier.
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../05.WorkActivitiesEvidence/index.md).

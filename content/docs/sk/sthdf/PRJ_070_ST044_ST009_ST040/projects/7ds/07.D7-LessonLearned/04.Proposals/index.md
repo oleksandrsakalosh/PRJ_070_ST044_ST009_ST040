@@ -135,6 +135,10 @@ fm_reserved2: ""
 
 # Proposals
 
+## Projektové doplnenie
+
+Návrhy: uchovávať kód/CAD/EA vo verziách, doplniť testy T01–T08 a overiť hodnotu s pedagógom. TODO potvrdiť priority a vlastníkov.
+
 Sekcia **Proposals** – vyplňte obsah podľa potreby.
 
 ---

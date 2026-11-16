@@ -135,7 +135,28 @@ fm_reserved2: ""
 
 # 📊 Test Results
 
-Zhrnutie výsledkov testovania (reporty, screenshoty, metriky).
+## Dostupné záznamy overenia
 
----
-**Navigation:** [⬆️ Up](./index.md) · [🏠 Home](../index.md)
+| Udalosť | Záznam | Čo dokladá |
+|---|---|---|
+| Displej s PC, hlásenie 5. 10. 2026 | Správa janinix, S1 | Autorské hlásenie funkčnosti na PC; bez protokolu |
+| Komponenty a prvá herná verzia na Pi | Potvrdené používateľom | Komponenty dodané a testované, hra testovaná na Pi; konfigurácia a presný rozsah TODO |
+| Overenie rozmerov CAD | TODO | Úloha bola zadaná, dokončenie nepotvrdené |
+| Tlač a montáž | TODO | Výroba nebola doložená |
+| T01–T08 | TODO | Návrh testov nie je úspešný výsledok |
+
+Konkrétne T01–T08 zatiaľ nie sú označené ako úspešné. Používateľské potvrdenie všeobecného testovania nie je podrobný protokol oboch hier alebo kiosk režimu. Doplniť dátum, testera, konfiguráciu, skutočný výsledok a prílohu.
+
+## Navigácia
+
+- [↩️ Späť](./index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).
+
+## Kontrola nových súborov pri dokumentovaní
+
+- S6: syntaktická kontrola Pythonu úspešná; runtime test nevykonaný, Pygame tu nie je nainštalovaný.
+- S7: binárna dĺžka, počty trojuholníkov a obálky piatich STL skontrolované. Tlač ani fyzický fit nevykonané.
+- T09–T13: navrhnuté, bez výsledkov.
+
+TODO: potvrdiť zhodu dodanej päťhernej verzie s predchádzajúcim testom na Raspberry Pi.

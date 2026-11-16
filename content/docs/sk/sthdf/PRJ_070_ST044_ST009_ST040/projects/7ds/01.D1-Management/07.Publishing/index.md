@@ -135,7 +135,14 @@ fm_reserved2: ""
 
 # Publishing
 
-Sekcia **Publishing** – vyplňte obsah podľa potreby.
+## Publikovanie
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../../index.md)
+Dokumentácia používa existujúcu štruktúru 7Ds/Q12/SDLC a automatický sidebar. Snímka modelu a poster sú uložené v projektovom priečinku assets a odkazy zostávajú relatívne.
+
+TODO: doplniť URL publikovanej tímovej stránky a overiť jej nasadenie. Úprava Markdownu ani push zdrojov samy osebe nepotvrdzujú úspešné nasadenie webu.
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../05.WorkActivitiesEvidence/index.md).

@@ -135,7 +135,30 @@ fm_reserved2: ""
 
 # D4 – Design
 
-Návrh riešenia a jeho štruktúra.
+## Dodaná sada pre výrobu
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../index.md)
+Handoff definuje cieľ: **Elecrow 5-inch LCD Display-B Rev 1.1 a Raspberry Pi 3 Model A+**. STL sú dodané výrobné siete, nie editovateľný parametrický CAD zdroj.
+
+![Vizuálny návrh](../../../assets/model.png)
+
+### Diely a výpočtové rozmery
+
+Nasledujúce rozmery sú osovo zarovnané obálky vypočítané z binárnych STL. Jednotku mm určuje handoff; STL ju sám neukladá. Nejde o merania vytlačených dielov.
+
+| Diel | Rozmer X × Y × Z v mm | Trojuholníky |
+|---|---|---|
+| [01-body.stl](../../../assets/model/01-body.stl) | 168,800 × 110,993 × 100,803 | 13 998 |
+| [02-bezel.stl](../../../assets/model/02-bezel.stl) | 168,800 × 111,240 × 3,000 | 1 234 |
+| [03-lid-with-pi-mount.stl](../../../assets/model/03-lid-with-pi-mount.stl) | 168,800 × 111,000 × 12,000 | 2 364 |
+| [04-diffuser.stl](../../../assets/model/04-diffuser.stl) | 39,000 × 39,000 × 1,200 | 192 |
+| [05-display-connector-fit-test.stl](../../../assets/model/05-display-connector-fit-test.stl) | 35,400 × 75,000 × 30,030 | 886 |
+
+[PRINT-AND-ASSEMBLY.txt](../../../assets/model/PRINT-AND-ASSEMBLY.txt) uvádza orientáciu dielov, mierku a kontrolu konektorov. Jeho autor hlási uzavreté siete a digitálnu kontrolu nominálnych obálok elektroniky. Táto analýza nezávisle overila binárnu dĺžku súborov, počty trojuholníkov a obálky; fyzický fit a výsledok tlače nie sú potvrdené.
+
+Kryt podľa používateľa zatiaľ nie je vytlačený. TODO: zdroj CAD, autorstvo/revízia, vzťah snímky k tejto sade, meranie displeja a skúška fit-test dielu.
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../01.D1-Management/05.WorkActivitiesEvidence/index.md).

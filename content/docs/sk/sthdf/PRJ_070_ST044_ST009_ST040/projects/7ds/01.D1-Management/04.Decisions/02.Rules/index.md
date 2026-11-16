@@ -135,7 +135,14 @@ fm_reserved2: ""
 
 # Rules
 
-Sekcia **Rules** – vyplňte obsah podľa potreby.
+## Pravidlá spolupráce – návrh
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../../../index.md)
+Kód, CAD/STL a EA držať vo verzovanej evidencii. Ku zmene zapísať autora, dôvod, verziu a overenie. Dokončenie úlohy doložiť artefaktom alebo testovacím záznamom.
+
+Osobné reflexie píše každý člen sám; tímové výstupy musia uvádzať príspevky jednotlivých členov. TODO: dohodnúť frekvenciu kontroly postupu a zodpovednosť za ukladanie súborov.
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../05.WorkActivitiesEvidence/index.md).

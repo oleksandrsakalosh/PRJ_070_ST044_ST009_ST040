@@ -135,7 +135,29 @@ fm_reserved2: ""
 
 # Decisions
 
-Princípy, pravidlá, SWOT, riziká a opatrenia.
+## Rozhodnutia a otvorené body
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../../index.md)
+| Téma | Záver | Podklad |
+|---|---|---|
+| Produktový názov | MemoBox Junior | Potvrdené používateľom |
+| Koncept | Pi + dotyk + Memory/Chimp + vlastný kryt | Chat a poster |
+| Tím | ST044 Oleksandr, ST009 Yehor, ST040 Ján | Používateľ potvrdil mená aj účty |
+| Výroba | 3D tlač je zamýšľaná, ešte neprebehla | Používateľ |
+| Druhá technológia | TODO potvrdiť potrebu a voľbu | V chate iba návrh |
+| Rozpočet, termín | TODO | Nepotvrdené |
+
+Historické varianty názvu PyMemTest a MemTest sa ponechávajú iba v evidencii vývoja.
+
+## Podrobné sekcie
+
+- [01.Principles](./01.Principles/index.md)
+- [02.Rules](./02.Rules/index.md)
+- [03.SWOT](./03.SWOT/index.md)
+- [04.Risks](./04.Risks/index.md)
+- [05.Measures](./05.Measures/index.md)
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../05.WorkActivitiesEvidence/index.md).

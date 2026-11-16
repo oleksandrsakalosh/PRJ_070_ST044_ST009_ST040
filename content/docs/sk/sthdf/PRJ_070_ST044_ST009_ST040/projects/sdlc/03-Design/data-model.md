@@ -135,7 +135,23 @@ fm_reserved2: ""
 
 # 🗃️ Data Model
 
-Entity, vzťahy, kľúče – stručný ER/diagram a popis.
+## Stav a údaje podľa memory.py
 
----
-**Navigation:** [⬆️ Up](./index.md) · [🏠 Home](../index.md)
+| Trieda | Hlavné údaje |
+|---|---|
+| App | state, last_game, last_score, games |
+| MemoryGame | level, sequence, player_index, show_index, phase, timer, lit_tile |
+| ChimpGame | level, numbers (pozícia → číslo), next_expected, hidden, reveal_timer |
+| WhackGame | hits, mole_cell, mole_timer |
+| RPSGame | wins, losses, ties, computer_choice |
+| ReactionGame | round_num, times, last_reaction, phase, wait_timer |
+
+Údaje sú iba v pamäti procesu. Menu, hra a výsledok sú riadené App; jednotlivé hry implementujú update, draw a handle_click. Žiadna databáza, používateľský profil ani sieťové API sa v dodanom súbore nenachádzajú.
+
+TODO: EA diagram zachytávajúci skutočný stav aplikácie a prípadné budúce ukladanie výsledkov. Nezamieňať herné skóre ani reakčný čas za klinickú metriku.
+
+## Navigácia
+
+- [↩️ Späť](./index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

@@ -134,7 +134,19 @@ fm_reserved2: ""
 <!-- SDLC_INSTANCE_ID: PRJ_070_ST044_ST009_ST040 -->
 
 # Q12-Tvelwe quadrants for starting our business 
-- [Q12-Tvelwe quadrants for starting our business](./01.ProductServiceLifeCycle/index.md)
+
+## Hodnota MemoBox Junior
+
+Jednoúčelové stolové zariadenie prepája hry s pamäťou a vlastný kryt. Poster navrhuje využitie v materských školách; nejde o overený trh ani preukázaný vzdelávací efekt.
+
+Q12 rozlišuje štyri etapy životného cyklu a tri vrstvy: procesy, systémy a technológie. Vývoj má dostupné podklady; predaj a prevádzková údržba sú budúce hypotézy.
+
+## Podrobné sekcie
+
+- [01.ProductServiceLifeCycle](./01.ProductServiceLifeCycle/index.md)
 
 ## Navigácia
+
 - [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

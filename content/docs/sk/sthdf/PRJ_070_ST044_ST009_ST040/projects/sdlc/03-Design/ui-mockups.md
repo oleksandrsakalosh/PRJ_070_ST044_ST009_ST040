@@ -135,7 +135,22 @@ fm_reserved2: ""
 
 # 🎨 UI Mockups
 
-Návrhy obrazoviek (môžu byť odkazy na obrázky alebo nástroje).
+## Rozhranie podľa dodaného kódu
 
----
-**Navigation:** [⬆️ Up](./index.md) · [🏠 Home](../index.md)
+Menu Memory Testing Device obsahuje päť volieb: Memory Test, Chimp Test, Whack-a-Mole, Rock-Paper-Scissors a Reaction Time. Logický priestor má 800 × 480 px; aplikácia používa fullscreen a škálovanie Pygame.
+
+- **Memory:** 4 × 4 polí po 80 px, medzera 14 px. Sekvencia má level + 2 prvky, prvá úroveň tri. Zobrazenie prvku 0,6 s, medzi prvkami 0,25 s; chyba ukončí hru a zobrazí aktuálnu úroveň.
+- **Chimp:** 5 × 4 polí po 78 px, medzera 10 px. Čísla sú viditeľné 1,2 s; dovtedy sa herné kliknutia ignorujú. Po skrytí sa vyberajú vzostupne. Počet čísel min(level + 2, 20); chyba zobrazí aktuálnu úroveň.
+- **Whack:** 3 × 3 cieľov, limit od 1,6 s k minimu 0,5 s so zrýchlením 0,1 s na zásah. Chybný zásah alebo vypršanie času ukončí hru; skóre je počet zásahov.
+- **RPS:** voľby Rock/Paper/Scissors, priebežné výhry/prehry/remízy. Hra pokračuje do návratu do menu, nepoužíva spoločnú výsledkovú obrazovku.
+- **Reaction:** náhodné čakanie 1–3 s, potom zelená plocha. Predčasný dotyk vyvolá Too soon; po piatich platných kolách výsledok zobrazí priemerný reakčný čas v ms.
+
+Pri hrách je Back to Menu. Spoločný výsledok má Play Again a Back to Menu. Esc ukončuje aplikáciu.
+
+[Poster](../../../assets/poster.png) ilustruje pôvodný dvojherný koncept; nie je screenshotom tejto päťhernej verzie. UI je anglické; veková vhodnosť, dotyková ergonómia a reálne screenshoty: TODO.
+
+## Navigácia
+
+- [↩️ Späť](./index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

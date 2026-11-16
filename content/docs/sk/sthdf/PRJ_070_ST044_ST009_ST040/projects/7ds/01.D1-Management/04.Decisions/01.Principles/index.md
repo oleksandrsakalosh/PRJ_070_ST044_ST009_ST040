@@ -135,7 +135,17 @@ fm_reserved2: ""
 
 # Principles
 
-Sekcia **Principles** – vyplňte obsah podľa potreby.
+## Princípy dokumentácie a návrhu
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../../../index.md)
+- Rozlišovať artefakt, autorské hlásenie, používateľské potvrdenie a plán.
+- Pred výrobou preveriť rozmery aj priestor káblov.
+- Viazať požiadavky na testovacie scenáre a verzie artefaktov.
+- Nepovažovať marketingový vizuál za dôkaz funkčnosti alebo vhodnosti pre deti.
+
+TODO: potvrdiť ďalšie tímové princípy.
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../05.WorkActivitiesEvidence/index.md).

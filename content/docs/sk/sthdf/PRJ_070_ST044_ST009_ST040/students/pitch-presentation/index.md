@@ -135,42 +135,25 @@ fm_reserved2: ""
 
 # 🎤 Pitch Presentation
 
-## 1. Problém
-- aký problém riešime
+## Osnova pitchu – návrh, 5–7 minút
 
-## 2. Riešenie
-- čo ponúkame
+1. **Problém / hypotéza:** pedagóg potrebuje jednoduchú stolovú aktivitu zameranú na pamäť a pozornosť. TODO overiť rozhovorom s pedagógom.
+2. **Riešenie:** Raspberry Pi, dotykový displej, Memory test a Chimp test v jednom 3D kryte.
+3. **Hodnota:** priama interakcia a opakovateľné herné úlohy. Rozvoj pamäti zostáva hypotézou.
+4. **Stav:** model a poster sú dostupné, prvá herná verzia bola podľa používateľa testovaná na Pi; kryt nie je vytlačený.
+5. **Tím:** ST044, ST009, ST040; príspevky sú evidované v Project Summary; TODO formálne roly.
+6. **Výzva:** zabezpečiť výrobu, overiť prototyp a získať spätnú väzbu.
 
-## 3. Hodnota
-- kto z toho profituje a ako
+### Vizuálny podklad
 
-## 4. Biznis model
-- ako by sme to monetizovali (aj v hypotéze)
+![Poster konceptu MemoBox Junior](../../assets/poster.png)
 
-## 5. Tím
-- prečo sme my tí správni ľudia
+Poster používa marketingové tvrdenia o odolnosti, bezpečnosti a prínose učenia. Dokumentácia ich nepovažuje za overené vlastnosti. Zobrazené deti a zariadenie nie sú dôkazom používateľského testovania.
 
-## 6. Call to action
-- čo potrebujeme od investorov (čas, peniaze, feedback)
-
-## 🛠️ Štruktúra pitchu
-1. **Problém** – aký problém riešime?
-2. **Riešenie** – čo sme vyvinuli?
-3. **Trh / Kontext** – pre koho to je, aký má dopad?
-4. **Tím** – kto sme, aké máme roly?
-5. **Výzva** – čo potrebujeme (čas, ľudí, investíciu)?
-
-## ⏱️ Časovanie
-- Max 5–7 minút na prezentáciu
-- 2–3 minúty Q&A
-
-## 📊 Podklady
-- 3–5 slajdov (stručné, vizuálne)
-- 1 demo / ukážka výsledku
-
-## 🧭 Tipy
-- Menej textu, viac vizualizácií
-- Jedna hlavná myšlienka na slide
+**TODO:** finálne slajdy, hovoriaci, termín, ukážka funkčného zariadenia a detailné výsledky skúšok. Cenový a obchodný model nie je dohodnutý.
 
 ## Navigácia
+
 - [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../projects/7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

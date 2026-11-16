@@ -135,9 +135,12 @@ fm_reserved2: ""
 
 # 02. Systems
 
-Prehľad systémov / nástrojov podporujúcich túto oblasť.
+## MemoBox Junior
 
-- Systém X
-- Systém Y
+Návrh: Git pre verzie kódu/modelov a evidencia chýb. Monitorovanie ani automatické aktualizácie nie sú potvrdené.
 
-[↩️ Späť](../index.md)
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

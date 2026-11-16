@@ -135,7 +135,19 @@ fm_reserved2: ""
 
 # SWOT
 
-Sekcia **SWOT** – vyplňte obsah podľa potreby.
+## Pracovná SWOT analýza
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../../../index.md)
+| Oblasť | Hodnotenie odvodené z podkladov |
+|---|---|
+| Silné stránky | Dodané a podľa používateľa otestované komponenty; prvá herná verzia testovaná na Pi; existujúci vizuálny návrh. |
+| Slabé stránky | Chýbajú EA, parametrický CAD, podrobné protokoly a potvrdený harmonogram. |
+| Príležitosti | Jednoúčelová stolová aktivita, iterácia krytu a spätná väzba od pedagógov. |
+| Hrozby | Omeškanie tlače, nepresné rozmery a kolízie káblov, neoverená vhodnosť pre cieľový vek. |
+
+Ide o autorskú analýzu dostupných informácií; TODO prejsť s tímom a prioritizovať.
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../05.WorkActivitiesEvidence/index.md).

@@ -133,75 +133,60 @@ fm_reserved2: ""
 
 <!-- SDLC_INSTANCE_ID: PRJ_070_ST044_ST009_ST040 -->
 
-# 📝 Project Summary
+# 📝 Project Summary – MemoBox Junior
 
-**TODO:** doplniť nasledujúce projektové údaje. Pokyny a checklisty sú šablóna;
-rozsah, termíny a výstupy zatiaľ nie sú potvrdené.
+## Identifikácia a zámer
 
-## 🔖 Identifikácia
-## 1️⃣ Názov projektu
-*(Jasný, výstižný, inšpiratívny – ako by sa mal objaviť na plagáte.)*
-- **Kód projektu:** `PRJ_070_ST044_ST009_ST040`
-- **Názov projektu:** TODO
-- **Stručný popis:** TODO (2–3 vety)
+- **Kód:** PRJ_070_ST044_ST009_ST040.
+- **Názov:** MemoBox Junior, potvrdený používateľom.
+- **Opis:** samostatné stolové zariadenie s Raspberry Pi a dotykovou obrazovkou pre pamäťové a reakčné hry. Súčasťou zámeru je vlastný kryt vyrobený 3D tlačou a systémový model v EA.
 
-## 2️⃣ Členovia tímu
+### Členovia a evidencia príspevkov
 
-| ST ID | Meno | Rola v tíme | Kompetencie |
-|-------|------|-------------|-------------|
-| ST044 | Sakalosh Oleksandr, Bc. | TODO | TODO |
-| ST009 | Lykhachov Yehor, Bc. | TODO | TODO |
-| ST040 | Mareček Ján, Bc. | TODO | TODO |
+| ST ID | Meno | Potvrdená rola / príspevok |
+|---|---|---|
+| ST044 | Sakalosh Oleksandr, Bc. | Príspevky uvedené nižšie; TODO presný rozsah |
+| ST009 | Lykhachov Yehor, Bc. | Príspevky uvedené nižšie; TODO presný rozsah |
+| ST040 | Mareček Ján, Bc. | Príspevky uvedené nižšie; TODO presný rozsah |
 
-## 3️⃣ Motivácia tímu
-- Prečo ste si vybrali tento projekt?
-- Aký osobný alebo profesný zmysel má pre vás riešenie tejto témy?
-- Prečo je projekt dôležitý
-- Aký problém rieši
+Používateľ potvrdil účty a mená. Chat dokladá tieto aktivity:
 
-## 4️⃣ Cieľ a pridaná hodnota projektu
-- Aký je finálny cieľ
-- Ako spoznáme, že projekt je úspešný
+- **ST009 Yehor / upsil00n:** pôvodný návrh, komunikácia o softvéri a EA, výber komponentov.
+- **ST040 Ján / janinix:** poskytnutie a skúška displeja, zdieľanie modelov a STL, parametre displeja.
+- **ST044 Oleksandr / _signum_:** poster, kontrola montážnych otázok, kontaktovanie SmartLabu a tímový repozitár.
 
-## 5️⃣ Popis riešenia
-- Stručne opíšte architektúru, nástroje a technológie, ktoré použijete.
-- Zamerajte sa na **"čo"** riešite, nie ešte "ako".
+Ide o evidenciu konkrétnych aktivít, nie o automatické pridelenie formálnych rolí. TODO potvrdiť úplný rozsah a autorstvo zdrojových súborov.
 
-## 6️⃣ Projektový plán
-- Odhadovaný čas na prácu: TODO (hodín / týždeň)
-- Predpokladaný stav v čase prezentácie: TODO (MVP / prototyp / dokumentácia / funkčný produkt)
-- Hlavné míľniky:
-  - [ ] Príprava
-  - [ ] Implementácia
-  - [ ] Testovanie
-  - [ ] Prezentácia
+### Motivácia, cieľ a hodnota
 
-### 📅 Míľniky a výstupy
-- **TODO: potvrdiť termín a plánované výstupy:**
-  - [ ] prototyp
-  - [ ] prezentáciu
-  - [ ] dokumentáciu
+Spojiť vývoj interaktívnych hier, systémový návrh a digitálnu fabrikáciu do jedného prototypu. Memory test má pracovať s opakovaním sekvencie; Chimp test s poradím čísel po ich skrytí. V dodanom kóde sa čísla skryjú po 1,2 s a vstup pred skrytím sa ignoruje.
 
-## 7️⃣ Zákazník a hodnoty
-- Kto by mohol byť používateľom projektu?
-- Čo mu to prinesie?
+Poster navrhuje hravé používanie v materských školách a pri práci pedagógov s deťmi. Ide o hodnotovú hypotézu. Prínos pre pamäť, vhodnosť pre konkrétny vek a bezpečnosť produktu nie sú overené.
 
-## 8️⃣ Očakávané výstupy
-- Dokumentácia: (napr. README, KNIFE článok, demo stránka...)
-- Artefakty: (napr. prototyp, appka, vizualizácia...)
+### Rozsah a úspech
 
-## 📚 Kontext
-- KNIFE príspevky, literatúra, inšpirácie
+Pôvodný rozsah: Memory a Chimp. Dodaný kód navyše implementuje Whack-a-Mole, Rock-Paper-Scissors a Reaction Time, spolu päť hier. Automatické spustenie po zapnutí, fyzický kryt a dokumentácia zostávajú súčasťou zámeru; boot konfigurácia nie je dodaná. Kritériá prevzatia sú zatiaľ návrh: pôvodné dve hry ovládateľné na cieľovom displeji, funkčný štart, komponenty bez kolízií v kryte, zdokumentované výsledky testov. TODO schváliť s tímom.
 
-## 🧭 Riziká a závislosti
-- Riziká projektu
-- Na čom závisí
+Mimo doloženého rozsahu zostávajú cloudové účty, klinická diagnostika, overené zlepšenie pamäti a komerčné nasadenie.
 
-## 9️⃣ Reflexia a ďalšie kroky
-Čo očakávate, že sa naučíte?
-Ako by sa projekt mohol rozvíjať ďalej?
+### Plán a očakávané výstupy
 
----
+1. Doplniť EA a parametrický CAD; označiť verziu dodaného kódu a STL.
+2. Skontrolovať rozmery displeja, dosky, otvorov a priestor HDMI.
+3. Dohodnúť SmartLab, materiál a parametre tlače.
+4. Vytlačiť, zmontovať a vykonať integračné skúšky.
+5. Pripraviť demo, výsledky a prezentáciu.
+
+TODO: termíny, zodpovednosti, rozpočet a týždenná kapacita. Približne 100 EUR zo septembrového chatu bol iba orientačný AI odhad.
+
+### Riziká a ďalšie kroky
+
+Hlavné riziká: neoverené rozmery, káble, odozva dotyku, dostupnosť tlače, chýbajúce EA/CAD a dôkazy testov. Druhá výrobná technológia bola navrhnutá, jej použitie ani aktuálna požiadavka kurzu nie sú potvrdené.
+
+[Podrobný projektový dashboard](../../projects/index.md)
 
 ## Navigácia
+
 - [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../projects/7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

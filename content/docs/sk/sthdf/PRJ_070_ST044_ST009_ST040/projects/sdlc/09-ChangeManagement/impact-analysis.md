@@ -135,7 +135,20 @@ fm_reserved2: ""
 
 # 📐 Impact Analysis
 
-Aký dopad má zmena na rozsah, čas, náklady, riziká a kvalitu.
+## Návrh posúdenia dopadov
 
----
-**Navigation:** [⬆️ Up](./index.md) · [🏠 Home](../index.md)
+| Zmena | Dopad | Potrebné overenie |
+|---|---|---|
+| Iný displej alebo Pi | Otvory, uchytenie, káble a napájanie | Meranie a T05/T07 |
+| Iný HDMI kábel | Priestor a uzatvorenie krytu | T07 |
+| Tlačidlá namiesto dotyku | Herné ovládanie a mechanický návrh | Revízia FR-05 a UI |
+| Druhá výrobná technológia | Cena, termín, nové podklady | Potvrdenie rozsahu a výroby |
+| Nová značka | Poster, menu a dokumentácia | Kontrola konzistencie názvu |
+
+TODO: kvantifikovať až po potvrdení komponentov, cien a termínov.
+
+## Navigácia
+
+- [↩️ Späť](./index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

@@ -135,7 +135,20 @@ fm_reserved2: ""
 
 # 📈 Feasibility Study
 
-Technická, ekonomická a organizačná uskutočniteľnosť.
+## Uskutočniteľnosť a alternatívy
 
----
-**Navigation:** [⬆️ Up](./index.md) · [🏠 Home](../index.md)
+**Technická:** koncept využíva Raspberry Pi a externý dotykový displej. Používateľ potvrdil dodanie a testovanie komponentov aj prvej hernej verzie na Pi. Podrobné protokoly zatiaľ chýbajú. Pred výrobou treba overiť presné rozmery a miesto pre HDMI.
+
+**Ekonomická:** približne 100 EUR bol orientačný AI odhad zo septembra. Člen účtu upsil00n ponúkol financovanie Pi, microSD a zdroja; janinix ponúkol existujúci displej. Používateľ potvrdil objednanie a dodanie komponentov. Vlastníctvo, kusovník a skutočné výdavky: TODO potvrdiť.
+
+**Organizačná:** výroba závisí od SmartLabu. K 16. 11. bol hlásený e-mail bez odpovede; termín ani kapacita tlače nie sú dohodnuté v dodaných podkladoch.
+
+**Alternatívy z diskusie:** tlačidlá namiesto dotyku boli navrhnuté kvôli cene. Ďalšie materiály zostávajú pri dotykovom koncepte; formálne rozhodnutie a porovnanie nákladov: TODO.
+
+TODO: presný kusovník, dostupnosť výroby, rozpočtový strop a plán pri omeškaní.
+
+## Navigácia
+
+- [↩️ Späť](./index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

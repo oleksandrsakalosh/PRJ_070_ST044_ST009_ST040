@@ -135,6 +135,10 @@ fm_reserved2: ""
 
 # D3 – Analysis
 
+## Projektové doplnenie
+
+Analýza rieši rozmerovú kompatibilitu, priestor pre káble, dostupnosť výroby a evidenciu nákladov. Prvá verzia hry a komponenty sú podľa používateľa testované; TODO doložiť konfiguráciu, kusovník a výsledky.
+
 Zdroje, analýzy a vstupy.
 
 ---

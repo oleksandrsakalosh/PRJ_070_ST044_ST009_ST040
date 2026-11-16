@@ -133,9 +133,18 @@ fm_reserved2: ""
 
 <!-- SDLC_INSTANCE_ID: PRJ_070_ST044_ST009_ST040 -->
 
-# # 02 Analysis
+# 02 Analysis
 
-Analýza uskutočniteľnosti, rizík a alternatív riešenia.
+## MemoBox Junior – stav etapy
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../index.md)
+Kľúčové závislosti sú rozmerová kompatibilita, priestor káblov, dostupnosť výroby a doplnenie EA a parametrického CAD. Náklady a termín zostávajú TODO.
+
+## Podrobné sekcie
+
+- [feasibility study](./feasibility-study.md)
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

@@ -133,9 +133,20 @@ fm_reserved2: ""
 
 <!-- SDLC_INSTANCE_ID: PRJ_070_ST044_ST009_ST040 -->
 
-# # 03 Design
+# 03 Design
 
-Návrh architektúry, dátového modelu a používateľského rozhrania.
+## MemoBox Junior – stav etapy
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../index.md)
+Navrhovaná architektúra prepája hráča, hry na Pi a dotykový displej. Kryt je doložený snímkou a piatimi STL s handoffom; parametrický CAD a EA treba dodať. TODO rozmerové overenie.
+
+## Podrobné sekcie
+
+- [architecture diagram](./architecture-diagram.md)
+- [data model](./data-model.md)
+- [ui mockups](./ui-mockups.md)
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

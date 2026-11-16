@@ -135,7 +135,37 @@ fm_reserved2: ""
 
 # ✅ Test Cases
 
-Zoznam test scenárov (ID, názov, kroky, očakávaný výsledok).
+## Návrh testovacích scenárov
 
----
-**Navigation:** [⬆️ Up](./index.md) · [🏠 Home](../index.md)
+Všetky scenáre čakajú na vykonanie alebo doloženie výsledku.
+
+| ID | Väzba | Kroky | Očakávaný výsledok |
+|---|---|---|---|
+| T01 | FR-01 | Spustiť aplikáciu, vybrať postupne pôvodné dve hry. | Obe hry dostupné z menu. |
+| T02 | FR-02 | Zopakovať sekvenciu správne a potom s chybou. | Rozlíši správny a chybný vstup. |
+| T03 | FR-03 | Zapamätať čísla, po skrytí zvoliť správne/chybné poradie. | Vyhodnotí poradie podľa potvrdených pravidiel. |
+| T04 | FR-04 | Dokončiť hru, začať nový pokus. | Výsledok sa zobrazí a nový pokus resetuje stav. |
+| T05 | FR-05 | Ovládať menu a herné polia po celej ploche displeja. | Dotyk zodpovedá obrazu, bez vynechania/dvojitého vstupu. |
+| T06 | FR-06 | Zapnúť napájanie a sledovať štart. | Rozhranie sa spustí bez práce s desktopom. |
+| T07 | HW-01 | Overiť rozmery, osadiť dosku/displej/káble, uzavrieť kryt. | Bez kolízií a namáhania konektorov; prístup k portom. |
+| T08 | DOC-01 | Porovnať artefakty s dokumentáciou. | Verzie, modely, montáž a výsledky dohľadateľné. |
+
+TODO: tester, termín, verzia softvéru/CAD, limity odozvy, opakovania a prílohy ku každému testu. Prehrievanie a stabilitu zariadenia treba doplniť po návrhu prevádzkových podmienok.
+
+## Navigácia
+
+- [↩️ Späť](./index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).
+
+## Doplnené scenáre podľa S6/S7 – nevykonané pri dokumentovaní
+
+| ID | Rozsah | Overenie |
+|---|---|---|
+| T09 | Whack-a-Mole | Správny zásah zvýši hits; chyba a timeout ukončia pokus. |
+| T10 | Rock-Paper-Scissors | Overiť všetky kombinácie výhra/prehra/remíza, počítadlá a návrat do menu. |
+| T11 | Reaction Time | Predčasný dotyk, päť platných kôl a priemerný výsledok v ms. |
+| T12 | Stav aplikácie | Nový pokus resetuje stav; Back to Menu a Esc fungujú podľa návrhu. |
+| T13 | Mechanický fit-test | Vytlačiť skúšobný diel, vložiť skutočné HDMI/USB, zapnúť displej a preveriť obraz proti rámu. |
+
+TODO: potvrdiť prevzatie rozšíreného päťherného rozsahu a výsledky každej hry. Kódový cieľ 30 FPS ani meranie pygame.time.get_ticks nie sú presnou validáciou hardvérovej latencie.

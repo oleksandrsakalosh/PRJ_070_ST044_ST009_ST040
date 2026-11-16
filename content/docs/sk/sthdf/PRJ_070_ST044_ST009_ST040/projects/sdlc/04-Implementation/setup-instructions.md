@@ -135,7 +135,42 @@ fm_reserved2: ""
 
 # ⚙️ Setup Instructions
 
-Kroky na spustenie projektu lokálne (prerequisites, príkazy, env).
+## Dodané podklady
 
----
-**Navigation:** [⬆️ Up](./index.md) · [🏠 Home](../index.md)
+- [Herný zdroj memory.py](../../../assets/software/memory.py)
+- [Pôvodný print/assembly handoff](../../../assets/model/PRINT-AND-ASSEMBLY.txt)
+- [STL diely a rozmery](../../7ds/04.D4-Design/index.md)
+
+### Spustenie – odvodené z kódu, lokálne runtime neoverený
+
+Potrebný je Python 3, Pygame a grafická relácia s funkčným displejom/vstupom. Z koreňa repozitára možno pripraviť samostatné prostredie:
+
+```bash
+python3 -m venv /tmp/memobox-venv
+/tmp/memobox-venv/bin/python -m pip install pygame
+/tmp/memobox-venv/bin/python content/docs/sk/sthdf/PRJ_070_ST044_ST009_ST040/assets/software/memory.py
+```
+
+Nejde o reprodukciu pôvodného prostredia na Pi: presná verzia Python/Pygame a OS nie sú dodané. Inštalácia na konkrétnom Pi môže vyžadovať balíky grafického systému. Automatický štart treba doplniť samostatnou konfiguráciou; tento súbor ho nenastavuje.
+
+### Príprava tlače – podľa dodaného handoffu
+
+1. STL importovať v mm pri 100 % mierke. Hlavné teleso vyžaduje približne 169 × 111 × 101 mm priestoru pred pridaním brimu.
+2. Najskôr vytlačiť [test konektorov](../../../assets/model/05-display-connector-fit-test.stl). Skontrolovať reálny displej, nízkoprofilový HDMI Type-A a microUSB dátový konektor; zapnúť displej a skontrolovať viditeľnú plochu oproti rámu.
+3. Použiť školský profil tlačiarne/filamentu. Handoff uvádza PLA a vrstvu 0,20 mm ako východisko, nie ako odskúšané nastavenie. Náhľad podpor preveriť najmä pri otvoroch a montážnych bodoch.
+4. Teleso: strechou na podložke; rám naplocho; spodný kryt stĺpikmi nahor. Difúzor naplocho, priehľadný filament iba ak bude prekrývať svetlo.
+
+### Montáž – návrh podľa handoffu, fyzicky ešte neoverený
+
+1. Displej vložiť spredu s HDMI/USB vpravo pri pohľade spredu. Montážne plôšky sú podľa handoffu 8,7 mm za čelnou plochou; tenké nylonové podložky majú vyrovnať sklo bez jeho zovretia. M2.5 skrutky pre plast zvoliť podľa skutočnej hrúbky uší/podložiek; slepé pilotné otvory asi 5 mm.
+2. Pi upevniť na stĺpiky spodného krytu s HDMI a napájaním k pravej stene. M2.5 skrutky; pilotné otvory asi 6 mm. microSD vložiť pri otvorenom kryte.
+3. Pre obraz použiť HDMI Type-A na oboch koncoch, pri displeji nízky pravouhlý konektor smerujúci od skla dovnútra. USB-A → microUSB dátový kábel prepojí Touch port displeja a Pi. Napájací kábel Pi viesť bočným otvorom.
+4. Rám/spodný kryt používajú M3 spojovací materiál; dĺžku overiť proti slepým otvorom. Difúzor vložiť do hornej priehlbiny, ak sa použije.
+
+TODO: potvrdiť skrutky, podložky, káble, napájanie displeja, tlačiareň, materiál, podporu, výšku reálnej zostavy, následné fotografie a výsledky skúšok.
+
+## Navigácia
+
+- [↩️ Späť](./index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

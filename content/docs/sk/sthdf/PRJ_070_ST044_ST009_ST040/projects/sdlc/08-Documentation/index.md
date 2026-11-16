@@ -133,9 +133,19 @@ fm_reserved2: ""
 
 <!-- SDLC_INSTANCE_ID: PRJ_070_ST044_ST009_ST040 -->
 
-# # 08 Documentation
+# 08 Documentation
 
-Príručky, referencie a podklady na odovzdanie.
+## MemoBox Junior – stav etapy
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../index.md)
+Dokumentácia obsahuje stav, požiadavky, architektúru, plán skúšok, zdroje a vizuály. TODO doplniť overený montážny a používateľský postup podľa finálnej verzie.
+
+## Podrobné sekcie
+
+- [api reference](./api-reference.md)
+- [user guide](./user-guide.md)
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

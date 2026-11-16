@@ -133,9 +133,18 @@ fm_reserved2: ""
 
 <!-- SDLC_INSTANCE_ID: PRJ_070_ST044_ST009_ST040 -->
 
-# # 07 Maintenance
+# 07 Maintenance
 
-Údržba, drobné vylepšenia a plán aktualizácií.
+## MemoBox Junior – stav etapy
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../index.md)
+Údržba je plánovaná etapa. Nie je doložené nasadenie u koncového používateľa. TODO záloha microSD, vlastník a postup aktualizácie.
+
+## Podrobné sekcie
+
+- [improvement log](./improvement-log.md)
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

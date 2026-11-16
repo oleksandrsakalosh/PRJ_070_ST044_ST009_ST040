@@ -135,7 +135,23 @@ fm_reserved2: ""
 
 # 📚 User Guide
 
-Návod pre používateľa (inštalácia, používanie, FAQ).
+## Ovládanie dodanej verzie podľa kódu
 
----
-**Navigation:** [⬆️ Up](./index.md) · [🏠 Home](../index.md)
+Po spustení memory.py sa otvorí menu Memory Testing Device s piatimi voľbami. Automatické spustenie po zapnutí Pi zatiaľ nie je doložené.
+
+1. Vyberte hru kliknutím alebo dotykom mapovaným na kliknutie.
+2. **Memory:** počkajte na sekvenciu rozsvietených polí a zopakujte poradie. Po úspechu pribudne úroveň; chyba zobrazí úroveň ako skóre.
+3. **Chimp:** čísla si zapamätajte počas 1,2 s; až po skrytí vyberajte pozície v poradí 1, 2, 3… Chyba ukončí pokus.
+4. **Whack-a-Mole:** stláčajte rozsvietený cieľ pred uplynutím času. Chyba alebo omeškanie ukončí pokus.
+5. **Rock-Paper-Scissors:** zvoľte Rock/Paper/Scissors, sledujte počítadlá výhier, prehier a remíz. Ukončite cez Back to Menu.
+6. **Reaction Time:** čakajte na zelenú a potom stlačte plochu; predčasný dotyk vyžaduje opakovanie čakania. Po každom kole pokračujte ďalším dotykom; po piatich kolách sa zobrazí priemer v ms.
+
+Back to Menu je dostupné počas hier. Výsledková obrazovka podporuje Play Again a Back to Menu. Esc ukončí aplikáciu, nie operačný systém.
+
+TODO: screenshoty z Pi, overený spôsob zapnutia/vypnutia zariadenia a obsluha bez klávesnice. Vhodnosť pre konkrétny detský vek zostáva neoverená.
+
+## Navigácia
+
+- [↩️ Späť](./index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

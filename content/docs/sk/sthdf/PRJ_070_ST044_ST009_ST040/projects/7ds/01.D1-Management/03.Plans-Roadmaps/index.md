@@ -135,7 +135,18 @@ fm_reserved2: ""
 
 # Plans & Roadmaps
 
-Sekcia **Plans & Roadmaps** – vyplňte obsah podľa potreby.
+## Najbližší postup – návrh
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../../index.md)
+1. Kolegovia dodajú EA model a parametrický CAD; tím označí revíziu už dodaného kódu a STL.
+2. Tím overí rozmery, tolerancie a priestor pre HDMI kábel.
+3. Oleksandr nadviaže na kontakt SmartLabu a dohodne tlač.
+4. Po výrobe tím vykoná montáž a zaznamená T01–T08.
+5. Tím doplní výsledky, demo a finálnu prezentáciu.
+
+TODO: potvrdiť termíny, vlastníkov bodov 1/2/4/5 a záložnú výrobnú možnosť. Ide o návrh poradia prác, nie schválený harmonogram.
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../05.WorkActivitiesEvidence/index.md).

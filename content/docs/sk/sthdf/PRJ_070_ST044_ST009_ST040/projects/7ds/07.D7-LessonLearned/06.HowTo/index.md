@@ -135,6 +135,10 @@ fm_reserved2: ""
 
 # How To
 
+## Projektové doplnenie
+
+Dodaný je print/assembly handoff a spustiteľný Python zdroj. TODO: po fyzickom overení doplniť presné prostredie OS a overený postup prípravy, tlače a montáže.
+
 Sekcia **How To** – vyplňte obsah podľa potreby.
 
 ---

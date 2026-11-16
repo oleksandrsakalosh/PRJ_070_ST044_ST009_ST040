@@ -133,9 +133,31 @@ fm_reserved2: ""
 
 <!-- SDLC_INSTANCE_ID: PRJ_070_ST044_ST009_ST040 -->
 
-# # 01 Requirements
+# 01 Requirements
 
-Zachytenie potrieb, cieľov a očakávaní používateľov. Pridaj user stories a nefunkčné požiadavky.
+## MemoBox Junior – stav etapy
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../index.md)
+Požiadavky FR-01 až FR-06, HW-01 a DOC-01 sú rekonštruované zo zámeru. TODO potvrdiť kritériá prevzatia tímom.
+
+## Podrobné sekcie
+
+- [non functional](./non-functional.md)
+- [user stories](./user-stories.md)
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).
+
+## Rozšírený rozsah podľa dodaného memory.py
+
+Pôvodný zámer mal dve hry. S6 dokladá navyše nasledujúce implementované funkcie; formálne prijatie rozšíreného rozsahu je TODO.
+
+| ID | Funkcia v dodanom zdroji | Navrhnutá kontrola |
+|---|---|---|
+| FR-07 | Whack-a-Mole s počtom zásahov a časovým limitom | T09 |
+| FR-08 | Rock-Paper-Scissors s priebežnými počítadlami | T10 |
+| FR-09 | Reaction Time s piatimi kolami a priemerom v ms | T11 |
+
+FR-06 (automatické spustenie) nie je implementované dodanou boot konfiguráciou. Dodané STL rozširujú HW-01 o fyzickú skúšku konektorov T13. V kóde je fullscreen; testovanie na Pi je používateľské potvrdenie, nie výsledok kontrol T01–T13.

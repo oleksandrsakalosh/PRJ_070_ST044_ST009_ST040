@@ -135,9 +135,12 @@ fm_reserved2: ""
 
 # 01. Processes
 
-Zoznam procesov / postupov súvisiacich s touto oblasťou.
+## MemoBox Junior
 
-- Proces A
-- Proces B
+Dostupný je poster. Navrhnutý ďalší proces: rozhovor s pedagógom, ukážka prototypu a zápis spätnej väzby. TODO otázky, účastníci a výsledky.
 
-[↩️ Späť](../index.md)
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

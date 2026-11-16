@@ -135,7 +135,21 @@ fm_reserved2: ""
 
 # Risks
 
-Sekcia **Risks** – vyplňte obsah podľa potreby.
+## Register rizík – návrh
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../../../index.md)
+| ID | Riziko | Následok | Opatrenie |
+|---|---|---|---|
+| R01 | SmartLab neodpovie / nemá termín | Odklad tlače a montáže | Získať kontakt a termín; TODO záložná možnosť |
+| R02 | Model nezodpovedá komponentom | Opakovaná tlač | Meranie, tolerancie, kontrola otvorov |
+| R03 | HDMI sa nezmestí | Kryt sa neuzavrie | Skúšobné osadenie a výber kábla |
+| R04 | Zdrojové súbory zostanú mimo repozitára | Nereprodukovateľné odovzdanie | Doplniť EA a parametrický CAD; označiť verzie dodaného kódu/STL |
+| R05 | Hlásený test nezachytí všetky funkcie | Chyby pri ukážke | Zaznamenať výsledky T01–T08 |
+| R06 | Poster prekračuje overené vlastnosti | Nesprávna interpretácia produktu | Označiť hodnotu a cieľový segment ako hypotézy |
+
+TODO: vlastník, priorita a termín ku každému riziku. Pravdepodobnosti a finančný dopad zatiaľ nie sú merané.
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../05.WorkActivitiesEvidence/index.md).

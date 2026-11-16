@@ -135,7 +135,18 @@ fm_reserved2: ""
 
 # 🧑‍🤝‍🧑 User Stories
 
-Zapíš stručné príbehy používateľov (As a … I want … so that …).
+## Návrh používateľských príbehov
 
----
-**Navigation:** [⬆️ Up](./index.md) · [🏠 Home](../index.md)
+- Ako hráč chcem zopakovať sekvenciu v Memory teste, aby som si mohol vyskúšať zapamätanie poradia (FR-02).
+- Ako hráč chcem vybrať čísla v poradí aj po ich skrytí, aby som si vyskúšal priestorové zapamätanie (FR-03).
+- Ako používateľ chcem vidieť výsledok a začať ďalší pokus (FR-04).
+- Ako obsluhujúci chcem spustiť zariadenie bez práce s desktopom (FR-06).
+- Ako pedagóg chcem jednoduché dotykové ovládanie pri vedenej aktivite. Ide o hypotetického používateľa z posteru, nie potvrdeného zákazníka.
+
+TODO: validovať príbehy, vek používateľov a spôsob dohľadu.
+
+## Navigácia
+
+- [↩️ Späť](./index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

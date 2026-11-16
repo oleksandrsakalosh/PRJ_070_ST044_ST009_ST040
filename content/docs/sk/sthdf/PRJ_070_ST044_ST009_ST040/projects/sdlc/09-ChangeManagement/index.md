@@ -133,9 +133,20 @@ fm_reserved2: ""
 
 <!-- SDLC_INSTANCE_ID: PRJ_070_ST044_ST009_ST040 -->
 
-# # 09 ChangeManagement
+# 09 ChangeManagement
 
-Riadenie zmien: change log, impact analýza, CR proces.
+## MemoBox Junior – stav etapy
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../index.md)
+Evidencia odlišuje vývoj konceptu od vydaných verzií. TODO zaznamenať schválenia, vlastníkov zmien a commity artefaktov.
+
+## Podrobné sekcie
+
+- [change log](./change-log.md)
+- [change request](./change-request.md)
+- [impact analysis](./impact-analysis.md)
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

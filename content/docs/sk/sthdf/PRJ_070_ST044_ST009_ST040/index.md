@@ -142,7 +142,7 @@ V tejto sekcii sa nachádzajú študentské deliverables tímu **PRJ_070_ST044_S
 - **ST009:** Lykhachov Yehor, Bc.
 - **ST040:** Mareček Ján, Bc.
 
-**TODO:** doplniť projektové údaje a výstupy; osobné príspevky označiť ST ID autora.
+**MemoBox Junior:** komponenty a prvá herná verzia na Pi testované podľa používateľa; kryt nie je vytlačený. TODO doplniť zdrojové súbory a protokoly.
 
 ## 🔗 Navigácia
 

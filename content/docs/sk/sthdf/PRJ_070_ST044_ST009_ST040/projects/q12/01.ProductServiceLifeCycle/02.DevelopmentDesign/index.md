@@ -135,12 +135,18 @@ fm_reserved2: ""
 
 # 02. Development & Design
 
-Krátky opis účelu kapitoly (1–3 vety).
+## Stav a hodnota etapy
+
+Vývoj prepája hernú aplikáciu, elektroniku a kryt. Prvá verzia je podľa používateľa testovaná na Pi, fyzický kryt nie je vytlačený.
+
+## Podrobné sekcie
+
+- [01.Processes](./01.Processes/index.md)
+- [02.Systems](./02.Systems/index.md)
+- [03.Technologies](./03.Technologies/index.md)
 
 ## Navigácia
+
 - [↩️ Späť](../index.md)
 
-## Vrstvy
-- [01. Processes](./01.Processes/index.md)
-- [02. Systems](./02.Systems/index.md)
-- [03. Technologies](./03.Technologies/index.md)
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

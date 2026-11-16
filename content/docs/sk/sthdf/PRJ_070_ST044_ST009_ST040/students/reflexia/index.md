@@ -135,6 +135,15 @@ fm_reserved2: ""
 
 # 🪞 Reflexia a spätná väzba
 
+## Individuálne doplnenie
+
+- **ST044 – Sakalosh Oleksandr, Bc.:** TODO osobný obsah / vlastný príspevok.
+- **ST009 – Lykhachov Yehor, Bc.:** TODO osobný obsah / vlastný príspevok.
+- **ST040 – Mareček Ján, Bc.:** TODO osobný obsah / vlastný príspevok.
+
+Nasledujúce body sú pôvodné pokyny šablóny. Životopis, osobná reflexia ani publikovaný KNIFE sa z komunikácie nedopĺňajú automaticky.
+
+
 1. Čo bolo pre teba v tomto predmete/úlohe najľahšie?
 2. Čo bolo najťažšie a prečo?
 3. Čo nové si sa naučil?

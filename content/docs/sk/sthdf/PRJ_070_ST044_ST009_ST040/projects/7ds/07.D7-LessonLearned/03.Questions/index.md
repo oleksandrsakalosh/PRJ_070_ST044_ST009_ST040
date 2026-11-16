@@ -135,7 +135,19 @@ fm_reserved2: ""
 
 # Questions
 
-Sekcia **Questions** – vyplňte obsah podľa potreby.
+## Otvorené otázky
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../../index.md)
+1. Ktorý kolega dodá EA a editovateľný CAD a potvrdí revíziu dodaného memory.py/STL?
+2. Aké sú presné modely Pi/displeja a výsledky ich skúšok?
+3. Bola overená každá hra, skórovanie a kiosk startup?
+4. Aký je termín a materiál výroby, rozpočet a deadline odovzdania?
+5. Vyžaduje sa a plánuje sa druhá výrobná technológia?
+6. Kto je potvrdený cieľový používateľ a aký vek má zariadenie podporovať?
+
+TODO: doplniť odpovede s dátumom a zdrojom.
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../01.D1-Management/05.WorkActivitiesEvidence/index.md).

@@ -135,6 +135,9 @@ fm_reserved2: ""
 
 # 🧭 Project Summary – SDLC v9 (Full Lifecycle)
 
+Dokumentácia projektu **MemoBox Junior**. Komponenty a prvá herná verzia na Pi sú podľa používateľa testované; kryt nie je vytlačený. Herný kód a STL s montážnym handoffom sú dostupné; EA, parametrický CAD a podrobné výsledky zostávajú TODO.
+
+
 Tento priečinok obsahuje **9 etáp SDLC** – od požiadaviek po riadenie zmien.  
 Každá fáza má vlastný `index.md` so stručným opisom a úlohami.
 

@@ -135,6 +135,9 @@ fm_reserved2: ""
 
 # 7Ds – Navigačný rozcestník
 
+Dokumentácia projektu **MemoBox Junior**. Komponenty a prvá herná verzia na Pi sú podľa používateľa testované; kryt nie je vytlačený. Herný kód a STL s montážnym handoffom sú dostupné; EA, parametrický CAD a podrobné výsledky zostávajú TODO.
+
+
 Tento priečinok predstavuje základnú **kostru frameworku 7Ds** –  
 od riadenia a motivácie až po poučenia a zdroje.
 

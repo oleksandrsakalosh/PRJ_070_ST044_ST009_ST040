@@ -3,14 +3,22 @@
 Tímová dokumentácia predmetu **Systémové myslenie v IT a digitálna fabrikácia**.
 
 - **Kód projektu:** `PRJ_070_ST044_ST009_ST040`
+- **Názov:** MemoBox Junior
+
 **Členovia tímu:**
 
 - **ST044:** Sakalosh Oleksandr, Bc.
 - **ST009:** Lykhachov Yehor, Bc.
 - **ST040:** Mareček Ján, Bc.
 
-- **Názov a stručný opis projektu:** TODO
-- **Roly a individuálne príspevky členov:** TODO
+MemoBox Junior je stolové zariadenie s Raspberry Pi a dotykovým displejom
+pre päť hier (pôvodne Memory a Chimp) vo vlastnom 3D tlačenom kryte.
+Komponenty sú podľa potvrdenia používateľa dodané a testované; prvá verzia hry
+bola testovaná na Pi. Kryt zatiaľ nie je vytlačený.
+
+**TODO:** dodať EA a parametrický CAD od kolegov, podrobné výsledky skúšok,
+termín a náklady. Príspevky členov sú evidované v Project Summary. Kód memory.py, päť STL
+a montážny handoff sú uložené v projektovom priečinku assets.
 
 ## Projektová dokumentácia
 
@@ -31,8 +39,8 @@ Tímová dokumentácia predmetu **Systémové myslenie v IT a digitálna fabrik�
 - [Final Presentation](content/docs/sk/sthdf/PRJ_070_ST044_ST009_ST040/students/final-presentation/index.md)
 - [Reflexia](content/docs/sk/sthdf/PRJ_070_ST044_ST009_ST040/students/reflexia/index.md)
 
-Dokumentácia je vygenerovaná zo šablóny. **TODO:** doplniť ciele, požiadavky,
-plán, skutočný stav implementácie a dôkazy o výsledkoch a testovaní.
+Dokumentácia vychádza zo šablóny, tímovej komunikácie, modelu, posteru a potvrdenia používateľa. Podrobnosti a pôvod tvrdení sú v
+[evidencii zdrojov](content/docs/sk/sthdf/PRJ_070_ST044_ST009_ST040/projects/7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).
 Pokyny a príklady v šablóne nepredstavujú potvrdené projektové údaje.
 Osobné profily, reflexie a individuálne príspevky uvádzajte osobitne pre
 ST044, ST009 a ST040.

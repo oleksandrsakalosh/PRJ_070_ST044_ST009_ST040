@@ -135,9 +135,12 @@ fm_reserved2: ""
 
 # 01. Processes
 
-Zoznam procesov / postupov súvisiacich s touto oblasťou.
+## MemoBox Junior
 
-- Proces A
-- Proces B
+Návrh: po overení prototypu overiť záujem, náklady a spôsob odovzdania. TODO cenový model a podmienky. Nejde o existujúci predajný proces.
 
-[↩️ Späť](../index.md)
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../../../7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

@@ -135,28 +135,23 @@ fm_reserved2: ""
 
 # 🎬 Final Presentation
 
-## 🔖 Stav projektu
-- Stručný update (čo funguje, čo nie)
+## Finálna prezentácia – pracovná osnova
 
-## 🧩 Výstupy podľa SDLC / V-modelu
-1. Business požiadavky
-2. Top Level Architecture
-3. Solution Architecture
-4. Analysis
-5. Design
-6. Implementation
-7. Verification & Testing
-8. Operation
+Podklad podľa stavu 16. 11. 2026; nejde o záznam uskutočnenej finálnej prezentácie.
 
-## 🏆 Finálny produkt
-- Čo tím reálne dodal
-- Ako to vyzerá (screenshoty, demo, repo link)
+1. Zámer a cieľová skupina, potvrdený rozsah.
+2. Systémový kontext, požiadavky a architektúra.
+3. Softvér a pravidlá oboch hier; TODO živé demo.
+4. CAD, kontrola rozmerov a výroba; TODO snímky výroby a montáže.
+5. Overenie: očakávania, výsledky, chyby a obmedzenia; TODO protokoly.
+6. Plán verzus skutočné výsledky a ďalšie kroky.
 
-## 🧭 Porovnanie s Project Summary
-- Čo sme plánovali vs. čo sme naozaj dodali
+Časový rámec pôvodnej šablóny: 10–12 minút + otázky; TODO potvrdiť pokyny aktuálneho ročníka.
 
-## ⏱️ Časovanie
-- 10–12 minút prezentácia + Q&A
+[Zoznam aktuálnych výstupov](../project-outcomes/index.md) · [Pitch a poster](../pitch-presentation/index.md)
 
 ## Navigácia
+
 - [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../projects/7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

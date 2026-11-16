@@ -135,27 +135,34 @@ fm_reserved2: ""
 
 # 📦 Project Outcomes
 
-## 🔖 Stav projektu
-- Stručný update (čo funguje, čo nie)
+## Dostupné výstupy k 16. 11. 2026
 
-## 🧩 Výstupy podľa SDLC / V-modelu
-1. Business požiadavky
-2. Top Level Architecture
-3. Solution Architecture
-4. Analysis
-5. Design
-6. Implementation
-7. Verification & Testing
-8. Operation
+| Výstup | Stav | Dôkaz / obmedzenie |
+|---|---|---|
+| Vizuálny model krytu | Dostupný | [Snímka modelu](../../assets/model.png); bez rozmerového overenia |
+| Poster | Dostupný | [MemoBox Junior](../../assets/poster.png); propagačný koncept |
+| Herný softvér | Prvá verzia vyvinutá a testovaná na Pi podľa používateľa | Používateľské potvrdenie; [memory.py](../../assets/software/memory.py); TODO demo a verzia testu |
+| STL a montážny handoff | Dostupné | [Päť dielov a rozmery](../../projects/7ds/04.D4-Design/index.md); parametrický CAD TODO |
+| Systémové diagramy | Rozpracovanosť hlásená | TODO EA a exporty |
+| Vytlačený a zmontovaný prototyp | Nepotvrdený | TODO fotografie a postup |
+| Test komponentov a hry na Pi | Potvrdený používateľom | TODO konfigurácia, rozsah a výsledky |
 
-## 🏆 Finálny produkt
-- Čo tím reálne dodal
-- Ako to vyzerá (screenshoty, demo, repo link)
+### Plán verzus dosiahnutý stav
 
-## 🧭 Porovnanie s Project Summary
-- Čo sme plánovali vs. čo sme naozaj dodali
+Zámerom je kompletné zariadenie; pôvodný koncept má dve hry, dodaný kód päť. Dostupné artefakty dokladajú vizuálny návrh a poster; komunikácia a používateľské potvrdenie dopĺňajú softvér testovaný na Pi a dodané/otestované komponenty. Nemožno z nej potvrdiť hotový integrovaný produkt.
 
----
+### Čo doplniť na odovzdanie
+
+- [ ] Potvrdenie, že dodaný memory.py zodpovedá verzii testovanej na Pi.
+- [ ] Parametrický CAD a fotografie vyrobených častí (STL už dodané).
+- [ ] EA diagramy a väzba na požiadavky.
+- [ ] Video alebo fotografie behu oboch hier na zariadení.
+- [ ] Protokol testov a individuálne príspevky potvrdené členmi.
+
+[Projektový dashboard](../../projects/index.md)
 
 ## Navigácia
+
 - [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../../projects/7ds/01.D1-Management/05.WorkActivitiesEvidence/index.md).

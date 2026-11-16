@@ -135,7 +135,27 @@ fm_reserved2: ""
 
 # D7 – Lessons Learned
 
-Získané poznatky a odporúčania.
+## Priebežné poučenia z podkladov
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../index.md)
+- Zdrojové modely a kód treba ukladať priebežne; samotné obrázky nestačia na zopakovanie výroby.
+- Priechodnosť káblov je súčasťou návrhu krytu, nie až montáže.
+- Závislosť od termínu dielne treba sledovať ako projektové riziko.
+- Propagačný poster musí zostať odlíšený od technických výsledkov.
+
+Ide o syntézu dokumentátora, nie o osobnú reflexiu členov. TODO: každý člen doplní vlastnú skúsenosť po príslušnej práci.
+
+## Podrobné sekcie
+
+- [01.BestPractice](./01.BestPractice/index.md)
+- [02.BadPractice](./02.BadPractice/index.md)
+- [03.Questions](./03.Questions/index.md)
+- [04.Proposals](./04.Proposals/index.md)
+- [05.NextSteps](./05.NextSteps/index.md)
+- [06.HowTo](./06.HowTo/index.md)
+- [07.TroubleShooting](./07.TroubleShooting/index.md)
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../01.D1-Management/05.WorkActivitiesEvidence/index.md).

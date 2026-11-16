@@ -135,7 +135,16 @@ fm_reserved2: ""
 
 # Reportings
 
-Sekcia **Reportings** – vyplňte obsah podľa potreby.
+## Stavový report k 16. 11. 2026
 
----
-**Navigation:** [⬆️ Up](../index.md) · [🏠 Home](../../index.md)
+**Potvrdené používateľom:** názov MemoBox Junior; mená a Discord účty; komponenty objednané, dodané a testované; prvá herná verzia vyvinutá a testovaná na Raspberry Pi. Kryt zatiaľ nie je vytlačený.
+
+**Dostupné na kontrolu:** snímka modelu a poster. Následne používateľ dodal memory.py (päť hier), päť STL a PRINT-AND-ASSEMBLY.txt; sú uložené v assets. EA a parametrický CAD stále chýbajú.
+
+**Otvorené:** výroba, montáž, kiosk, detailné výsledky oboch hier, EA/parametrický CAD, rozpočet a termín. Ďalší report má obsahovať nové artefakty a konkrétne výsledky.
+
+## Navigácia
+
+- [↩️ Späť](../index.md)
+
+Podklady a rozlíšenie stavov: [evidencia zdrojov](../05.WorkActivitiesEvidence/index.md).
